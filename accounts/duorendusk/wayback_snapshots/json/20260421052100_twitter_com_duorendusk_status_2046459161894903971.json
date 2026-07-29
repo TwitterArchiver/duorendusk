@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044878681412448256"
+      ]
+    },
+    "author_id": "2041223587873312769",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046459161894903971",
+    "created_at": "2026-04-21T05:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T06:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046459161894903971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XU07N18H1G",
+          "end": 29,
+          "expanded_url": "https://x.com/duorendusk/status/2046459161894903971/photo/1",
+          "media_key": "3_2044878681412448256",
+          "start": 6,
+          "url": "https://t.co/XU07N18H1G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046459161894903971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "舰娘好玩（ https://t.co/XU07N18H1G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_2044878681412448256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDeU5ZbsAAKPNh.jpg",
+        "width": 631
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044878681412448256"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046459161894903971",
+        "created_at": "2026-04-21T05:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046459161894903971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XU07N18H1G",
+              "end": 29,
+              "expanded_url": "https://x.com/duorendusk/status/2046459161894903971/photo/1",
+              "media_key": "3_2044878681412448256",
+              "start": 6,
+              "url": "https://t.co/XU07N18H1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046459161894903971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舰娘好玩（ https://t.co/XU07N18H1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 257,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 194
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

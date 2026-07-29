@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2057062781858591217",
+    "created_at": "2026-05-20T23:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T00:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057239860063428636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557679494290255872",
+          "start": 0,
+          "username": "Mtf4akbl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057239860063428636",
+    "in_reply_to_user_id": "1557679494290255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057160977263812711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mtf4akbl 想开火车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2057062781858591217",
+        "created_at": "2026-05-20T23:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057239860063428636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557679494290255872",
+              "start": 0,
+              "username": "Mtf4akbl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057239860063428636",
+        "in_reply_to_user_id": "1557679494290255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057160977263812711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mtf4akbl 想开火车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557679494290255872",
+        "conversation_id": "2057062781858591217",
+        "created_at": "2026-05-20T18:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057160977263812711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057160977263812711",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057062781858591217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk 你要正反交吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 294,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 309
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T10:45:18.000Z",
+        "description": "微风拂过，人已在远行路上，映着时间折射的微光，奔向有那花香芬芳与海蓝幕空的天堂",
+        "id": "1557679494290255872",
+        "location": "沉寂之地",
+        "name": "四氢叶酸🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557680338221969408/zO8Wbdqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 496,
+          "like_count": 471,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 685
+        },
+        "username": "Mtf4akbl",
+        "verified": false
+      }
+    ]
+  }
+}

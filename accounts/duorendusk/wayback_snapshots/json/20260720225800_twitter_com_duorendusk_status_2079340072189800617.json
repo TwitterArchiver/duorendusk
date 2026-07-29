@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2079145569117966806",
+    "created_at": "2026-07-20T22:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T23:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079340072189800617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037957102128300032",
+          "start": 0,
+          "username": "tsswyy1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079340072189800617",
+    "in_reply_to_user_id": "2037957102128300032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079247556702576712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsswyy1314 几年了还没好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2079145569117966806",
+        "created_at": "2026-07-20T22:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079340072189800617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037957102128300032",
+              "start": 0,
+              "username": "tsswyy1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079340072189800617",
+        "in_reply_to_user_id": "2037957102128300032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079247556702576712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsswyy1314 几年了还没好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037957102128300032",
+        "conversation_id": "2079145569117966806",
+        "created_at": "2026-07-20T16:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079247556702576712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079247556702576712",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079145569117966806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk 会好起来的喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 331,
+          "like_count": 274,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 567
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T18:17:54.000Z",
+        "description": "",
+        "id": "2037957102128300032",
+        "name": "绪山澍海喵~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049150168533266432/Y2GXQY-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "tsswyy1314",
+        "verified": false
+      }
+    ]
+  }
+}

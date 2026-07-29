@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2067477131777774044",
+    "created_at": "2026-06-18T10:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067553299629588507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029908828125548546",
+          "start": 0,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067553299629588507",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067477131777774044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bui_tu46916 呵呵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067477128527126528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEnfpMaoAAoVdN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2067477128648777728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEnfppa4AAsqqZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2067477131777774044",
+        "created_at": "2026-06-18T10:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067553299629588507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067553299629588507",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067477131777774044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 呵呵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067477128527126528",
+            "3_2067477128648777728"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067477131777774044",
+        "created_at": "2026-06-18T05:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067477131777774044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzwbLQYqLT",
+              "end": 44,
+              "expanded_url": "https://x.com/bui_tu46916/status/2067477131777774044/photo/1",
+              "media_key": "3_2067477128527126528",
+              "start": 21,
+              "url": "https://t.co/pzwbLQYqLT"
+            },
+            {
+              "display_url": "pic.x.com/pzwbLQYqLT",
+              "end": 44,
+              "expanded_url": "https://x.com/bui_tu46916/status/2067477131777774044/photo/1",
+              "media_key": "3_2067477128648777728",
+              "start": 21,
+              "url": "https://t.co/pzwbLQYqLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067477131777774044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 913,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "13：17肌注450mg菲尼布特，痛死了 https://t.co/pzwbLQYqLT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 329,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 540
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 238,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 729
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

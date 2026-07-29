@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2044726655101604176",
+    "created_at": "2026-04-16T12:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T13:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044757244697600153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044757244697600153",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044726655101604176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 去医院开个处方，在医院买也就贵一点，方舟健客也可以买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2044726655101604176",
+        "created_at": "2026-04-16T12:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044757244697600153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044757244697600153",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044726655101604176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 去医院开个处方，在医院买也就贵一点，方舟健客也可以买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2044726655101604176",
+        "created_at": "2026-04-16T10:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044726655101604176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044726655101604176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1076,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在好了网上买不到普瑞巴林了，有没有可能我真有神经痛，每次睡前如果洗头发没吹干净第二天就会头痛，之前吃普瑞巴林+谷维素+维生素B1的，现在只能吃布洛芬了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "日常刷梗图，梗里藏着生活碎碎念～\n偶尔丢化学小知识＋精神碎片（精神化学小实录ing）\n还会一些小技能\n双相｜解离｜精神状况不稳定\n像白羽一样轻，却总在漂浮与坠落之间摇晃\n希望认识更多朋友，一起聊那些飘忽不定的心事～",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2044279587132297601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 109,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 91
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "是初中生！^ω^ 目前在准备中考\n\n@hobartr6 猫@_furryfur_ 笨蛋肥鸟姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "hobartr6"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 23,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 0,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🇯🇵🍥🍬私信→",
+        "name": "猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040727260039352320/FmBMGIu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3583,
+          "following_count": 792,
+          "like_count": 3378,
+          "listed_count": 7,
+          "media_count": 88,
+          "tweet_count": 1221
+        },
+        "url": "https://t.co/9vPU5sObId",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

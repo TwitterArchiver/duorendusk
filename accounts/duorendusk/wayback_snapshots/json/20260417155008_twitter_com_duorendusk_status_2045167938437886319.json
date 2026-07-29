@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2044808041242194366",
+    "created_at": "2026-04-17T15:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045167938437886319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013321876224057344",
+          "start": 0,
+          "username": "OTxiashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045167938437886319",
+    "in_reply_to_user_id": "2013321876224057344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044808041242194366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTxiashu 生日快乐哦，愿你岁岁无忧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2044662943519002624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAaHTHa0AAHZm9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2044808041242194366",
+        "created_at": "2026-04-17T15:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045167938437886319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013321876224057344",
+              "start": 0,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045167938437886319",
+        "in_reply_to_user_id": "2013321876224057344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044808041242194366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTxiashu 生日快乐哦，愿你岁岁无忧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044662943519002624"
+          ]
+        },
+        "author_id": "2013321876224057344",
+        "conversation_id": "2044808041242194366",
+        "created_at": "2026-04-16T16:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044808041242194366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMcVooYXlU",
+              "end": 65,
+              "expanded_url": "https://x.com/OTxiashu/status/2044808041242194366/photo/1",
+              "media_key": "3_2044662943519002624",
+              "start": 42,
+              "url": "https://t.co/WMcVooYXlU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044808041242194366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 651,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的诞生日！可以点进我的主页戳气球！ 最近生活拮据🥲迫不得已放一个赞赏码在这 https://t.co/WMcVooYXlU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 201,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 141
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "傻逼od蛆 24小时网上冲浪 私信我回fo 脏话警告                   \n                           小号女儿:@SAIKAIaly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "SAIKAIaly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "谢谢你我充满感激之情",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2044808041242194366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 380,
+          "like_count": 6688,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 2805
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2059595218727641476",
+    "created_at": "2026-05-28T11:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059959164118721011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1840008766135103488",
+          "start": 0,
+          "username": "nande198900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059959164118721011",
+    "in_reply_to_user_id": "1840008766135103488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059912513093833068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nande198900 自恨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2059595218727641476",
+        "created_at": "2026-05-28T11:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059959164118721011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1840008766135103488",
+              "start": 0,
+              "username": "nande198900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059959164118721011",
+        "in_reply_to_user_id": "1840008766135103488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059912513093833068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nande198900 自恨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840008766135103488",
+        "conversation_id": "2059595218727641476",
+        "created_at": "2026-05-28T08:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059912513093833068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059912513093833068",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 788,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059595218727641476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk 这咋了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 318,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 412
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T12:41:00.000Z",
+        "description": "🍊- 蓝v互关必回 - He/him Femboy/boy. 🤍RT 4 RT - 男娘捏- 🇨🇳🇨🇭",
+        "id": "1840008766135103488",
+        "name": "某人的第五个号",
+        "pinned_tweet_id": "2053170473484370330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022830944953212929/1PF9XsE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25039,
+          "following_count": 3778,
+          "like_count": 8992,
+          "listed_count": 103,
+          "media_count": 1589,
+          "tweet_count": 21395
+        },
+        "username": "nande198900",
+        "verified": true
+      }
+    ]
+  }
+}

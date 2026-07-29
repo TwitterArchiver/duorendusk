@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2060180701912203364",
+    "created_at": "2026-05-29T02:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060190664453988708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 30,
+          "id": "1069706510916182017",
+          "start": 17,
+          "username": "doumiaojiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060190664453988708",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060180701912203364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa @doumiaojiang 这太怪了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060180697495605248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJc7bddXkAAsguL.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2060180701912203364",
+        "created_at": "2026-05-29T02:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060190664453988708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 30,
+              "id": "1069706510916182017",
+              "start": 17,
+              "username": "doumiaojiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060190664453988708",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060180701912203364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @doumiaojiang 这太怪了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060180697495605248"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2060180701912203364",
+        "created_at": "2026-05-29T02:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060180701912203364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1069706510916182017",
+              "start": 9,
+              "username": "doumiaojiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HM8tyVEl4E",
+              "end": 48,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2060180701912203364/photo/1",
+              "media_key": "3_2060180697495605248",
+              "start": 25,
+              "url": "https://t.co/HM8tyVEl4E"
+            },
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/hsn8086/status/2059996904545722733",
+              "start": 49,
+              "url": "https://t.co/Twu9TlcOp8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060180701912203364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 627,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059996904545722733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个部位吗（🔒来自@doumiaojiang ） https://t.co/HM8tyVEl4E https://t.co/Twu9TlcOp8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 318,
+          "like_count": 202,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 436
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "💰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya ⚜️@irisdesombres \n🪼 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "amber_digit"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5375,
+          "following_count": 920,
+          "like_count": 4081,
+          "listed_count": 12,
+          "media_count": 98,
+          "tweet_count": 1887
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-03T21:34:41.000Z",
+        "description": "博客地址：https://t.co/7M8ViEAzt6 淘宝店铺：https://t.co/Y1GDDhKigw 推特知名清水推主，成人用品卖家！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sissy.game",
+                "end": 28,
+                "expanded_url": "http://sissy.game",
+                "start": 5,
+                "url": "https://t.co/7M8ViEAzt6"
+              },
+              {
+                "display_url": "doumiaojiang.taobao.com",
+                "end": 57,
+                "expanded_url": "http://doumiaojiang.taobao.com",
+                "start": 34,
+                "url": "https://t.co/Y1GDDhKigw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sissy.game",
+                "end": 23,
+                "expanded_url": "https://sissy.game/",
+                "start": 0,
+                "url": "https://t.co/ihsgHYxpKa"
+              }
+            ]
+          }
+        },
+        "id": "1069706510916182017",
+        "location": "台湾",
+        "name": "抖喵酱 咕咕咕～",
+        "pinned_tweet_id": "1617060823465357312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1069709712751382528/2YUWSw3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146663,
+          "following_count": 2964,
+          "like_count": 13785,
+          "listed_count": 499,
+          "media_count": 519,
+          "tweet_count": 6906
+        },
+        "url": "https://t.co/ihsgHYxpKa",
+        "username": "doumiaojiang",
+        "verified": true
+      }
+    ]
+  }
+}

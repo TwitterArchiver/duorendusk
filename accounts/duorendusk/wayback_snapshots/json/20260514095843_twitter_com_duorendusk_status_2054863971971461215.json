@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2054748784316252365",
+    "created_at": "2026-05-14T09:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054863971971461215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1692075579850563584",
+          "start": 0,
+          "username": "10Lystra"
+        },
+        {
+          "end": 25,
+          "id": "1600148543125090305",
+          "start": 10,
+          "username": "NakaharaBulbel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054863971971461215",
+    "in_reply_to_user_id": "1692075579850563584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054859975445323994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10Lystra @NakaharaBulbel 是今天，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2054748784316252365",
+        "created_at": "2026-05-14T09:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054863971971461215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692075579850563584",
+              "start": 0,
+              "username": "10Lystra"
+            },
+            {
+              "end": 25,
+              "id": "1600148543125090305",
+              "start": 10,
+              "username": "NakaharaBulbel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054863971971461215",
+        "in_reply_to_user_id": "1692075579850563584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054859975445323994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10Lystra @NakaharaBulbel 是今天，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2054748784316252365",
+        "created_at": "2026-05-14T09:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054859975445323994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            },
+            {
+              "end": 27,
+              "id": "1600148543125090305",
+              "start": 12,
+              "username": "NakaharaBulbel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054859975445323994",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054844669121778094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk @NakaharaBulbel 12号头七吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 274,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 249
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n🐶@strf_9040c\n玖璋/Lystra 🏳️‍⚧️「请给我一个再也不会痛苦的梦」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947811744723963906/gus62yHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 892,
+          "like_count": 2357,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 7379
+        },
+        "username": "10Lystra",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T15:22:19.000Z",
+        "description": "正在向崩溃发展，急需要爱，坐标安徽蚌埠。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nakaharabulbel",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nakaharabulbel",
+                "start": 0,
+                "url": "https://t.co/KC6nMpv3E2"
+              }
+            ]
+          }
+        },
+        "id": "1600148543125090305",
+        "location": "🚪38u，但是我很废",
+        "name": "珠芽（已死亡）",
+        "pinned_tweet_id": "2051451108481286387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041074958781272064/hww1YOFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 414,
+          "like_count": 10050,
+          "listed_count": 6,
+          "media_count": 173,
+          "tweet_count": 1621
+        },
+        "url": "https://t.co/KC6nMpv3E2",
+        "username": "NakaharaBulbel",
+        "verified": false
+      }
+    ]
+  }
+}

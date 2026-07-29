@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2057437323571446079",
+    "created_at": "2026-05-21T12:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057437323571446079"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057437323571446079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "若是制作了一种物体，能掺在水中，也能掺杂在烟丝中增加效果，还能直接吃，吃了能快速上瘾，价格不大高，又基本戒不掉，关键对健康没大大影响，也就是不会死人,只是戒不掉,每天不吃就浑身无力打瞌睡，这是不是毒品？会不会被抓？会不会判刑？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2057437323571446079",
+        "created_at": "2026-05-21T12:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057437323571446079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057437323571446079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "若是制作了一种物体，能掺在水中，也能掺杂在烟丝中增加效果，还能直接吃，吃了能快速上瘾，价格不大高，又基本戒不掉，关键对健康没大大影响，也就是不会死人,只是戒不掉,每天不吃就浑身无力打瞌睡，这是不是毒品？会不会被抓？会不会判刑？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 303,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 335
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

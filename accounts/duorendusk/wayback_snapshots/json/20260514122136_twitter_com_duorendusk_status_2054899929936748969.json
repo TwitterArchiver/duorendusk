@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2054889757893910604",
+    "created_at": "2026-05-14T12:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054899929936748969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1556279645502427136",
+          "start": 0,
+          "username": "tianxiao0502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054899929936748969",
+    "in_reply_to_user_id": "1556279645502427136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054890592451379290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianxiao0502 会变成神人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2054889757893910604",
+        "created_at": "2026-05-14T12:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054899929936748969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556279645502427136",
+              "start": 0,
+              "username": "tianxiao0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054899929936748969",
+        "in_reply_to_user_id": "1556279645502427136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054890592451379290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianxiao0502 会变成神人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556279645502427136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2054889757893910604",
+        "created_at": "2026-05-14T11:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054890592451379290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054890592451379290",
+        "in_reply_to_user_id": "1556279645502427136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054889757893910604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我玩原神会变神吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 280,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 269
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "pdw副wiki主/叫我天晓/pdw官号@Psydrugswiki/里推@maimai_Prism_│🍐妈妈@K1ku21_ /kr @KrvyScorpii/苦力怕@Akinoyo_desu/彻子@aokitetsu111/叶子@WinbornN94577/苦瓜大人@C4usT1c_03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "Psydrugswiki"
+              },
+              {
+                "end": 50,
+                "start": 36,
+                "username": "maimai_Prism_"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "KrvyScorpii"
+              },
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "aokitetsu111"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "WinbornN94577"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "C4usT1c_03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "location": "庄俞南路 1号",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2049637066645053756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041020314524815360/KxdTr0Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 192,
+          "like_count": 1549,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": true
+      }
+    ]
+  }
+}

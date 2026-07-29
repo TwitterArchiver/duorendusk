@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2061466778166067364",
+    "created_at": "2026-06-02T02:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061637386388603026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochic_Xyn"
+        },
+        {
+          "end": 23,
+          "id": "1823315089686142977",
+          "start": 15,
+          "username": "amnssb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061637386388603026",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061468674268205263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochic_Xyn @amnssb1 其实不会在意的，敏感话题，他们也不会去谈这个话题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2061466778166067364",
+        "created_at": "2026-06-02T02:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061637386388603026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochic_Xyn"
+            },
+            {
+              "end": 23,
+              "id": "1823315089686142977",
+              "start": 15,
+              "username": "amnssb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061637386388603026",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061468674268205263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochic_Xyn @amnssb1 其实不会在意的，敏感话题，他们也不会去谈这个话题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2061466778166067364",
+        "created_at": "2026-06-01T15:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061468674268205263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1823315089686142977",
+              "start": 0,
+              "username": "amnssb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061468674268205263",
+        "in_reply_to_user_id": "1823315089686142977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061468252199616920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amnssb1 被晶了还打神秘数字水印，不想活了😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 326,
+          "like_count": 214,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 477
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@whatasiger｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "whatasiger"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 143,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 120,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 1775,
+          "like_count": 6229,
+          "listed_count": 4,
+          "media_count": 609,
+          "tweet_count": 4496
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-13T11:06:16.000Z",
+        "description": "发癫的而已别在意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "js96110.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.js96110.com.cn",
+                "start": 0,
+                "url": "https://t.co/U4yCQBSf6P"
+              }
+            ]
+          }
+        },
+        "id": "1823315089686142977",
+        "location": "月球",
+        "name": "amnssb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973252076748800/0lRmhUVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 70,
+          "like_count": 908,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/U4yCQBSf6P",
+        "username": "amnssb1",
+        "verified": true
+      }
+    ]
+  }
+}

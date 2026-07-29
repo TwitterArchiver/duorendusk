@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2067244753834639400",
+    "created_at": "2026-06-17T13:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067244753834639400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061831120292020225",
+          "start": 3,
+          "username": "ElonloveDEA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067244753834639400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061832974522581286",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElonloveDEA: 我是VVV\n马斯克因为我说自己吃了两颗阿普就把我号封了，给我气笑了\n点点关注点点转发，帮我寻回互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2067244753834639400",
+        "created_at": "2026-06-17T13:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067244753834639400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061831120292020225",
+              "start": 3,
+              "username": "ElonloveDEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067244753834639400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061832974522581286",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElonloveDEA: 我是VVV\n马斯克因为我说自己吃了两颗阿普就把我号封了，给我气笑了\n点点关注点点转发，帮我寻回互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061831120292020225",
+        "conversation_id": "2061832974522581286",
+        "created_at": "2026-06-02T15:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061832974522581286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061832974522581286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8229,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "我是VVV\n马斯克因为我说自己吃了两颗阿普就把我号封了，给我气笑了\n点点关注点点转发，帮我寻回互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 329,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 539
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T15:24:54.000Z",
+        "description": "已转生，互关寻回中",
+        "id": "2061831120292020225",
+        "location": "Edmonton, Alberta",
+        "name": "VVV3.0",
+        "pinned_tweet_id": "2061832974522581286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061832445734080512/mf3oJak7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 130,
+          "like_count": 358,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 142
+        },
+        "username": "ElonloveDEA",
+        "verified": false
+      }
+    ]
+  }
+}

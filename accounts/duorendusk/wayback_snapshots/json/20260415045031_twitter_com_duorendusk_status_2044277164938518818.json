@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2043978350495182995",
+    "created_at": "2026-04-15T04:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044277164938518818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044277164938518818",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043978350495182995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 可惜不会用呀，老师可以教一下吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2043978350495182995",
+        "created_at": "2026-04-15T04:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044277164938518818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044277164938518818",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043978350495182995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 可惜不会用呀，老师可以教一下吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2043978350495182995",
+        "created_at": "2026-04-14T09:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043978350495182995"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "IncandescenceReader"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "白炽阅读器"
+            }
+          ],
+          "urls": [
+            {
+              "description": "第一个发布可供测试的「白炽阅读器」发行版. 开箱即用,附测试用档案",
+              "display_url": "github.com/CheeseGhostfox…",
+              "end": 112,
+              "expanded_url": "http://github.com/CheeseGhostfox/IncandescenceReader/releases/tag/Test",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2043978357487091712/pTPneRuo?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043978357487091712/pTPneRuo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "Release IncandescenceReader All-In-One v0.1.0 · CheeseGhostfox/IncandescenceReader",
+              "unwound_url": "https://github.com/CheeseGhostfox/IncandescenceReader/releases/tag/Test",
+              "url": "https://t.co/3b4szdfif5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043978350495182995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1317,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#IncandescenceReader #白炽阅读器\n的第一个可用的封装成品版本已经完成!\n敬请诸君多加调矫测试,以帮助狐完善这个工具软件\n内附测试用档案\n万事皆备,静待东风\nhttps://t.co/3b4szdfif5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "日常刷梗图，梗里藏着生活碎碎念～\n偶尔丢化学小知识＋精神碎片（精神化学小实录ing）\n还会一些小技能\n双相｜解离｜精神状况不稳定\n像白羽一样轻，却总在漂浮与坠落之间摇晃\n希望认识更多朋友，一起聊那些飘忽不定的心事～",
+        "id": "2041223587873312769",
+        "name": "黄昏（互关喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 1462,
+          "like_count": 16691,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 5271
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

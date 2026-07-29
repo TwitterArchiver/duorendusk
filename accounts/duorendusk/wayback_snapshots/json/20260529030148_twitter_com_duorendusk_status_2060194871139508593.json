@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2060194871139508593",
+    "created_at": "2026-05-29T03:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060194871139508593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2015624869665456129",
+          "start": 3,
+          "username": "Oyama_Mihari01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060194871139508593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059984829903745308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oyama_Mihari01: 顺带一提本人正在持续解决几年前的有关部分消费者的经济遗留问题，欢迎大家多多转发这条动态让更多还未得到OYAMA药业服务的消费者得到应有的赔款"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2060194871139508593",
+        "created_at": "2026-05-29T03:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060194871139508593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2015624869665456129",
+              "start": 3,
+              "username": "Oyama_Mihari01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060194871139508593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059984829903745308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oyama_Mihari01: 顺带一提本人正在持续解决几年前的有关部分消费者的经济遗留问题，欢迎大家多多转发这条动态让更多还未得到OYAMA药业服务的消费者得到应有的赔款"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015624869665456129",
+        "conversation_id": "2059950636540833888",
+        "created_at": "2026-05-28T13:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059984829903745308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059984829903745308",
+        "in_reply_to_user_id": "2015624869665456129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059950636540833888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺带一提本人正在持续解决几年前的有关部分消费者的经济遗留问题，欢迎大家多多转发这条动态让更多还未得到OYAMA药业服务的消费者得到应有的赔款"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 320,
+          "like_count": 203,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 437
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "女子力の高い女の子🌊| 写真家 📸| 音楽と日常 🎼| クリア系🌈| Pansexuality💕 \n• JP / EN / 中文 OK!\n• LGBTQフレンドリー\n• 気軽にフォローしてください！ ˗ˏˋ♥︎︎ˎˊ˗\n~ Thanks for the love₊⁺♡₊⁺~\n^ ̳- ‧̫ • ̳^ฅ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kingyosama?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kingyosama?igsh=MWc5Z3JoNTA3ampmeQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/gQ3LtlxQgH"
+              }
+            ]
+          }
+        },
+        "id": "2015624869665456129",
+        "location": "Wubba lubba dub dub！",
+        "name": "OyamaMihari🏳️‍🌈",
+        "pinned_tweet_id": "2059980733041795579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059949776414842880/igOrD6AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 172,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/gQ3LtlxQgH",
+        "username": "Oyama_Mihari01",
+        "verified": false
+      }
+    ]
+  }
+}

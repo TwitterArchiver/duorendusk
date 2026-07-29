@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2045063475660271940",
+    "created_at": "2026-04-17T12:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045120228468936706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529373912764514304",
+          "start": 0,
+          "username": "AigXiApbPKiX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045120228468936706",
+    "in_reply_to_user_id": "1529373912764514304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045063475660271940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AigXiApbPKiX3 停一段时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045063475660271940",
+        "created_at": "2026-04-17T12:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045120228468936706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529373912764514304",
+              "start": 0,
+              "username": "AigXiApbPKiX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045120228468936706",
+        "in_reply_to_user_id": "1529373912764514304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045063475660271940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AigXiApbPKiX3 停一段时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529373912764514304",
+        "conversation_id": "2045063475660271940",
+        "created_at": "2026-04-17T08:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045063475660271940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AigXiApbPKiX3/…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/AigXiApbPKiX3/status/2045008046733332807",
+              "start": 57,
+              "url": "https://t.co/C5Hb81dl7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045063475660271940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045008046733332807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是，，，，\n这是什么玩笑吗\n我之前没空腹这次特别注意了\n完全没药效？？？？？？？\n而且这个剂量我之前也没碰过啊 https://t.co/C5Hb81dl7m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 157,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 120
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T08:08:57.000Z",
+        "description": "Relic / レリック\n\n梦想是被捆起来被割手",
+        "id": "1529373912764514304",
+        "location": "广州",
+        "name": "レリック",
+        "pinned_tweet_id": "2025559340971864375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009458384773492736/PjBe_ohx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 604,
+          "like_count": 24574,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1278
+        },
+        "username": "AigXiApbPKiX3",
+        "verified": false
+      }
+    ]
+  }
+}

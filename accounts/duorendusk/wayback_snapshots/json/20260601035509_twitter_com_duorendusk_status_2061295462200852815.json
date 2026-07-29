@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2061295462200852815",
+    "created_at": "2026-06-01T03:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061295462200852815"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061295462200852815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雌二醇是颜值不够格的自我欺骗, 真男娘靠建模直接化妆了事\n只有建模不够好的才会吃雌二醇, 那有什么用!要靠数值碾过去\n许多人都是建模不够只能拿雌二醇凑\n结果越凑脸越难看,别以为我不知道雌二醇让人脸变婴儿肥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2061295462200852815",
+        "created_at": "2026-06-01T03:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061295462200852815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061295462200852815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇是颜值不够格的自我欺骗, 真男娘靠建模直接化妆了事\n只有建模不够好的才会吃雌二醇, 那有什么用!要靠数值碾过去\n许多人都是建模不够只能拿雌二醇凑\n结果越凑脸越难看,别以为我不知道雌二醇让人脸变婴儿肥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 324,
+          "like_count": 208,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 468
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

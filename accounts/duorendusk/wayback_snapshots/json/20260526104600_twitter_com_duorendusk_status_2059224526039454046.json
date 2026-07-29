@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2059224526039454046",
+    "created_at": "2026-05-26T10:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059224526039454046"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059224526039454046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亚裔开局\n&gt;你的父母并无法给你一个健康人际关系的好榜样\n&gt;你的父母从不会对你表露任何爱意,他们永远不会拥抱你\n &gt;他们对你的期待一直很高,而符合你父母的预期并不会让你得到夸奖,只会让他们对你期待更多\n&gt;精神疾病是不存在的,如果你有精神疾病,你会被你的家人疏远,如果你需要帮助,你的父母不会支持你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2059224526039454046",
+        "created_at": "2026-05-26T10:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059224526039454046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059224526039454046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亚裔开局\n&gt;你的父母并无法给你一个健康人际关系的好榜样\n&gt;你的父母从不会对你表露任何爱意,他们永远不会拥抱你\n &gt;他们对你的期待一直很高,而符合你父母的预期并不会让你得到夸奖,只会让他们对你期待更多\n&gt;精神疾病是不存在的,如果你有精神疾病,你会被你的家人疏远,如果你需要帮助,你的父母不会支持你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 313,
+          "like_count": 189,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 397
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

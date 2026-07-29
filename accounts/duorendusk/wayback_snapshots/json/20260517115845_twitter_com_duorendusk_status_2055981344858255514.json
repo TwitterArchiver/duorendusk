@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2055785527950147639",
+    "created_at": "2026-05-17T11:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055981344858255514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047273781098639360",
+          "start": 0,
+          "username": "Yamamotokoroshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055981344858255514",
+    "in_reply_to_user_id": "2047273781098639360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055785527950147639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamamotokoroshi 被封了两个号，已经不想玩了，申诉没点作用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1665,
+        "media_key": "3_2055785519045611520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIeeCZ0bEAAxriD.jpg",
+        "width": 1319
+      },
+      {
+        "height": 974,
+        "media_key": "3_2055785519041392640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIeeCZzasAAbN8b.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2055785527950147639",
+        "created_at": "2026-05-17T11:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055981344858255514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055981344858255514",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055785527950147639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi 被封了两个号，已经不想玩了，申诉没点作用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055785519045611520",
+            "3_2055785519041392640"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2055785527950147639",
+        "created_at": "2026-05-16T23:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055785527950147639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rpEWARvWq",
+              "end": 52,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2055785527950147639/photo/1",
+              "media_key": "3_2055785519045611520",
+              "start": 29,
+              "url": "https://t.co/8rpEWARvWq"
+            },
+            {
+              "display_url": "pic.x.com/8rpEWARvWq",
+              "end": 52,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2055785527950147639/photo/1",
+              "media_key": "3_2055785519041392640",
+              "start": 29,
+              "url": "https://t.co/8rpEWARvWq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055785527950147639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1076,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实清楚的很...药⭕人不让发药，好讽刺，你就盯着我吧 https://t.co/8rpEWARvWq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 284,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 286
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/jNmBSxJaIe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cifHwzhznAJ7…",
+                "end": 129,
+                "expanded_url": "https://www.kdocs.cn/l/cifHwzhznAJ7?f=301",
+                "start": 106,
+                "url": "https://t.co/jNmBSxJaIe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2055917462286381187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 461,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

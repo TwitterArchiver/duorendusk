@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063899290280624128",
+        "3_2063899295385092096"
+      ]
+    },
+    "author_id": "2041223587873312769",
+    "conversation_id": "2064639204739727402",
+    "created_at": "2026-06-10T09:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064639204739727402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IpGShv1dYe",
+          "end": 100,
+          "expanded_url": "https://x.com/duorendusk/status/2064639204739727402/photo/1",
+          "media_key": "3_2063899290280624128",
+          "start": 77,
+          "url": "https://t.co/IpGShv1dYe"
+        },
+        {
+          "display_url": "pic.x.com/IpGShv1dYe",
+          "end": 100,
+          "expanded_url": "https://x.com/duorendusk/status/2064639204739727402/photo/1",
+          "media_key": "3_2063899295385092096",
+          "start": 77,
+          "url": "https://t.co/IpGShv1dYe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064639204739727402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.女装是基本人权\n2.吃药是天赋不好。否认吃药就像天然美女嘲笑整容一样站着说话不腰疼：如果我长得漂亮我也不想整容啊！类比：如果我不脱发我也不想吃药啊！ https://t.co/IpGShv1dYe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_2063899290280624128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRxeDFbgAA2Eg4.jpg",
+        "width": 750
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2063899295385092096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRxeWGbgAAisJB.jpg",
+        "width": 412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063899290280624128",
+            "3_2063899295385092096"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "conversation_id": "2064639204739727402",
+        "created_at": "2026-06-10T09:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064639204739727402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IpGShv1dYe",
+              "end": 100,
+              "expanded_url": "https://x.com/duorendusk/status/2064639204739727402/photo/1",
+              "media_key": "3_2063899290280624128",
+              "start": 77,
+              "url": "https://t.co/IpGShv1dYe"
+            },
+            {
+              "display_url": "pic.x.com/IpGShv1dYe",
+              "end": 100,
+              "expanded_url": "https://x.com/duorendusk/status/2064639204739727402/photo/1",
+              "media_key": "3_2063899295385092096",
+              "start": 77,
+              "url": "https://t.co/IpGShv1dYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064639204739727402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.女装是基本人权\n2.吃药是天赋不好。否认吃药就像天然美女嘲笑整容一样站着说话不腰疼：如果我长得漂亮我也不想整容啊！类比：如果我不脱发我也不想吃药啊！ https://t.co/IpGShv1dYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 327,
+          "like_count": 218,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 526
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

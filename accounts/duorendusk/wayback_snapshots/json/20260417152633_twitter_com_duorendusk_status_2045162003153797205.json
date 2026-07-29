@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2045160753666359573",
+    "created_at": "2026-04-17T15:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045162003153797205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999007250829230080",
+          "start": 0,
+          "username": "DDaquaforever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045162003153797205",
+    "in_reply_to_user_id": "1999007250829230080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045160753666359573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDaquaforever 至少有情绪吵，总比我任打任骂强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "16_2045160709559087104",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGHe1GHa8AAGo2p.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGHe1GHa8AAGo2p.mp4"
+          }
+        ],
+        "width": 286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045160753666359573",
+        "created_at": "2026-04-17T15:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045162003153797205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999007250829230080",
+              "start": 0,
+              "username": "DDaquaforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045162003153797205",
+        "in_reply_to_user_id": "1999007250829230080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045160753666359573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDaquaforever 至少有情绪吵，总比我任打任骂强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2045160709559087104"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2045160753666359573",
+        "created_at": "2026-04-17T15:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045160753666359573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5s9Jgf2lT",
+              "end": 32,
+              "expanded_url": "https://x.com/DDaquaforever/status/2045160753666359573/photo/1",
+              "media_key": "16_2045160709559087104",
+              "start": 9,
+              "url": "https://t.co/f5s9Jgf2lT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045160753666359573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人吵架我就这样 https://t.co/f5s9Jgf2lT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 196,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 138
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4452,
+          "following_count": 5068,
+          "like_count": 9495,
+          "listed_count": 13,
+          "media_count": 3240,
+          "tweet_count": 15554
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

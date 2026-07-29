@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2045106098928333080",
+    "created_at": "2026-07-21T02:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079396096137392318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029908828125548546",
+          "start": 0,
+          "username": "bui_tu46916"
+        },
+        {
+          "end": 21,
+          "id": "1962302660541079552",
+          "start": 13,
+          "username": "yuerQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079396096137392318",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045113442017878463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bui_tu46916 @yuerQwQ 咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045106098928333080",
+        "created_at": "2026-07-21T02:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079396096137392318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            },
+            {
+              "end": 21,
+              "id": "1962302660541079552",
+              "start": 13,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079396096137392318",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045113442017878463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 @yuerQwQ 咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2045106098928333080",
+        "created_at": "2026-04-17T12:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045113442017878463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            },
+            {
+              "end": 20,
+              "id": "1962302660541079552",
+              "start": 12,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045113442017878463",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045111338977153032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk @yuerQwQ 她是椰果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 330,
+          "like_count": 275,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "我已气哭",
+        "id": "2029908828125548546",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 284,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 897
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨广东丨178身高体重115丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@subdronexyn丨主人@huihui_mikumi丨闺蜜@nagis1a丨生活号@yuer0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "wu31878"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "subdronexyn"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "nagis1a"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "yuer0721"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "location": "最后的思绪",
+        "name": "无敌的小白羽大人🍥",
+        "pinned_tweet_id": "2068638239888691571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 1474,
+          "like_count": 16773,
+          "listed_count": 2,
+          "media_count": 1017,
+          "tweet_count": 4610
+        },
+        "url": "",
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063774376139640832"
+      ]
+    },
+    "author_id": "2041223587873312769",
+    "conversation_id": "2063774411782869310",
+    "created_at": "2026-06-08T00:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063774411782869310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WTZTEDTTKn",
+          "end": 32,
+          "expanded_url": "https://x.com/duorendusk/status/2063774411782869310/video/1",
+          "media_key": "7_2063774376139640832",
+          "start": 9,
+          "url": "https://t.co/WTZTEDTTKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063774411782869310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈妈，人生是旷野 https://t.co/WTZTEDTTKn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5675,
+        "height": 720,
+        "media_key": "7_2063774376139640832",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063774376139640832/pu/img/TVSuw0tCHYT_cVNr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063774376139640832/pu/vid/avc1/480x270/DLF6NOjZ8EgWxflq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063774376139640832/pu/vid/avc1/640x360/b4a06C8SBniBG3-Q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063774376139640832/pu/vid/avc1/1280x720/xeWJ1oGLBlKq2ZoY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063774376139640832/pu/pl/BmyBvcGJq-RfRtn6.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063774376139640832"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "conversation_id": "2063774411782869310",
+        "created_at": "2026-06-08T00:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063774411782869310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTZTEDTTKn",
+              "end": 32,
+              "expanded_url": "https://x.com/duorendusk/status/2063774411782869310/video/1",
+              "media_key": "7_2063774376139640832",
+              "start": 9,
+              "url": "https://t.co/WTZTEDTTKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063774411782869310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈，人生是旷野 https://t.co/WTZTEDTTKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 325,
+          "like_count": 220,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 498
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

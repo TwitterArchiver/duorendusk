@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2047559272641511652",
+    "created_at": "2026-04-24T07:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T08:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047583168811958530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1598557374046179328",
+          "start": 0,
+          "username": "huihui_mikumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047583168811958530",
+    "in_reply_to_user_id": "1598557374046179328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047559272641511652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huihui_mikumi 你当他们能像咱这样拥有几百颗吗，就这几百颗还不一定能成功呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 485,
+        "media_key": "3_2047559270535966720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpkTuDasAABw5N.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2047559272641511652",
+        "created_at": "2026-04-24T07:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047583168811958530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047583168811958530",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047559272641511652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 你当他们能像咱这样拥有几百颗吗，就这几百颗还不一定能成功呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047559270535966720"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2047559272641511652",
+        "created_at": "2026-04-24T06:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047559272641511652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a783qhcAOM",
+              "end": 56,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2047559272641511652/photo/1",
+              "media_key": "3_2047559270535966720",
+              "start": 33,
+              "url": "https://t.co/a783qhcAOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047559272641511652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好奇，明明大家都有安眠药，为什么都选择吃亚硝酸盐或者跳楼自杀呢 https://t.co/a783qhcAOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 273,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 234
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|欢迎互fo",
+        "id": "1598557374046179328",
+        "location": "广州",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "pinned_tweet_id": "2039216871254401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 367,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 634
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

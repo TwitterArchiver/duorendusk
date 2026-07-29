@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2044782578021056921",
+    "created_at": "2026-04-17T11:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045102031808118808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1785546408659148800",
+          "start": 0,
+          "username": "wandering10111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045102031808118808",
+    "in_reply_to_user_id": "1785546408659148800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044782578021056921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wandering10111 这叫念旧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2044782578021056921",
+        "created_at": "2026-04-17T11:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045102031808118808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1785546408659148800",
+              "start": 0,
+              "username": "wandering10111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045102031808118808",
+        "in_reply_to_user_id": "1785546408659148800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044782578021056921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wandering10111 这叫念旧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785546408659148800",
+        "conversation_id": "2044782578021056921",
+        "created_at": "2026-04-16T14:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044782578021056921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044782578021056921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 38596,
+          "like_count": 796,
+          "quote_count": 31,
+          "reply_count": 102,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "你像是那种断联了还会反复回看聊天记录的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045079820347085045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 140,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 113
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T05:47:02.000Z",
+        "description": "该如何安心入睡",
+        "id": "1785546408659148800",
+        "name": "树",
+        "pinned_tweet_id": "2013333737120113062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027421197391245312/NIufbQxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 62,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 294
+        },
+        "username": "wandering10111",
+        "verified": false
+      }
+    ]
+  }
+}

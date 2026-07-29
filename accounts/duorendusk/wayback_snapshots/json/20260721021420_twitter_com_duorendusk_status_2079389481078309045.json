@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2079145569117966806",
+    "created_at": "2026-07-21T02:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079389481078309045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684411421256466432",
+          "start": 0,
+          "username": "xiaomeinuya_GST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079389481078309045",
+    "in_reply_to_user_id": "1684411421256466432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079227984410788273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomeinuya_GST 启动！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2079145569117966806",
+        "created_at": "2026-07-21T02:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079389481078309045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684411421256466432",
+              "start": 0,
+              "username": "xiaomeinuya_GST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079389481078309045",
+        "in_reply_to_user_id": "1684411421256466432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079227984410788273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomeinuya_GST 启动！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684411421256466432",
+        "conversation_id": "2079145569117966806",
+        "created_at": "2026-07-20T15:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079227984410788273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079227984410788273",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079145569117966806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk pr80！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 330,
+          "like_count": 274,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T03:52:44.000Z",
+        "description": "无证含糖🍥/双性恋/抑郁/焦虑/阳痿/制造日期2007.12.13/170cm 60kg 39码/INFP/hrt2026.02.10/家里蹲好无聊想认识更多朋友😭小男娘小药娘来互fo😭",
+        "id": "1684411421256466432",
+        "location": "天安门",
+        "name": "顾诗钿.🍥",
+        "pinned_tweet_id": "2052064351717359647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052666153844027398/wuqocx2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 121,
+          "like_count": 20126,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2282
+        },
+        "url": "",
+        "username": "xiaomeinuya_GST",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2046552799857774786",
+    "created_at": "2026-04-21T18:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046653802359685346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043952988557803520",
+          "start": 0,
+          "username": "tngxngxng13171"
+        },
+        {
+          "end": 32,
+          "id": "1538535836148715520",
+          "start": 16,
+          "username": "jinghua77765851"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046653802359685346",
+    "in_reply_to_user_id": "2043952988557803520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046552799857774786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tngxngxng13171 @jinghua77765851 如今我们所能说的只有晚安，祝安息！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2046552799857774786",
+        "created_at": "2026-04-21T18:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046653802359685346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043952988557803520",
+              "start": 0,
+              "username": "tngxngxng13171"
+            },
+            {
+              "end": 32,
+              "id": "1538535836148715520",
+              "start": 16,
+              "username": "jinghua77765851"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046653802359685346",
+        "in_reply_to_user_id": "2043952988557803520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046552799857774786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tngxngxng13171 @jinghua77765851 如今我们所能说的只有晚安，祝安息！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043952988557803520",
+        "conversation_id": "2046552799857774786",
+        "created_at": "2026-04-21T11:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046552799857774786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1538535836148715520",
+              "start": 12,
+              "username": "jinghua77765851"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046552799857774786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n我的好亲友小镜花@jinghua77765851 \n已于4.18日下午约两点半时，通过静脉注射某物质与某物质（为了防止模仿隐去名称）目前已失联3日\n根据与其本人约定失联超3日默认死亡\n特此发布\n2026.4.21\n晚安，小镜花\n祝你不再有苦难\n永远的得到了幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 263,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 205
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "转生成功的星星天使/互联网的堕天使/白骑士综合征？/地雷/餐券/病弱/抖M/恋痛/生理双性/无性别主义者/永远怀念@AAAAAMTxT /❤️@ayameeii/互fo寻回中... \n\n主坑prsk/主推宵崎奏、晓山瑞希、望月穗波、日野森志步/团推Leoneed&25时/会出一些相关的cos\n\n副坑神椿/喜欢可不的歌声",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "ayameeii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/pN6Lr104tH"
+              }
+            ]
+          }
+        },
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "星星天使糖（变成小恶魔了）",
+        "pinned_tweet_id": "2044847486486102276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044128703157014528/1Je2ys0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 149,
+          "like_count": 1094,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 268
+        },
+        "url": "https://t.co/pN6Lr104tH",
+        "username": "tngxngxng13171",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T14:55:11.000Z",
+        "description": "19↑‖每天都想睡覺‖\n互粉查成分回 喜歡聰明人‖",
+        "id": "1538535836148715520",
+        "name": "鏡花生物爹",
+        "pinned_tweet_id": "1970351506923848033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042570703015415813/792SFKWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 189,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 219
+        },
+        "username": "jinghua77765851",
+        "verified": false
+      }
+    ]
+  }
+}

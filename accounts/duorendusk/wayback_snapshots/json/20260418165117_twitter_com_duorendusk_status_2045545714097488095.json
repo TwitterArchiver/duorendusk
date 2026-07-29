@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2045545714097488095",
+    "created_at": "2026-04-18T16:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045545714097488095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duorendusk/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/duorendusk/status/2045545088772890666",
+          "start": 7,
+          "url": "https://t.co/zIOQUcmstg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045545714097488095",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045545088772890666",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "加一片异丙嗪 https://t.co/zIOQUcmstg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045545714097488095",
+        "created_at": "2026-04-18T16:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045545714097488095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duorendusk/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/duorendusk/status/2045545088772890666",
+              "start": 7,
+              "url": "https://t.co/zIOQUcmstg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045545714097488095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045545088772890666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加一片异丙嗪 https://t.co/zIOQUcmstg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045545088772890666",
+        "created_at": "2026-04-18T16:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045545088772890666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duorendusk/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/duorendusk/status/2045544855267581992",
+              "start": 12,
+              "url": "https://t.co/nyyxaJhE6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045545088772890666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045544855267581992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加三包乙酰半胱氨酸颗粒 https://t.co/nyyxaJhE6x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 242,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 154
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2045392663051166172",
+    "created_at": "2026-04-18T06:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T07:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045392663051166172"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045392663051166172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "烦恼着何谓正确答案，\n最后却没有所谓正解，\n没有过多或不足 没有不自由，\n最近这样生活着，\n但是为什么 我们，\n有时却 整天，\n说着好哀伤，\n整天说着好寂寞，\n说着好想去死，\n我们就维持原状可以吗，\n说得出小时候的梦想吗，\n连梦想都丢弃在水沟的，\n何时才可以成为大人，\n首先大人到底是什么样呢，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045392663051166172",
+        "created_at": "2026-04-18T06:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045392663051166172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045392663051166172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烦恼着何谓正确答案，\n最后却没有所谓正解，\n没有过多或不足 没有不自由，\n最近这样生活着，\n但是为什么 我们，\n有时却 整天，\n说着好哀伤，\n整天说着好寂寞，\n说着好想去死，\n我们就维持原状可以吗，\n说得出小时候的梦想吗，\n连梦想都丢弃在水沟的，\n何时才可以成为大人，\n首先大人到底是什么样呢，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 227,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 154
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

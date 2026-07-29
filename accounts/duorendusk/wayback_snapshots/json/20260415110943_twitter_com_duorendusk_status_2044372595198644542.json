@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2044187063680152043",
+    "created_at": "2026-04-15T11:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044372595198644542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainBuild_2024"
+        },
+        {
+          "end": 25,
+          "id": "1554803647909097472",
+          "start": 16,
+          "username": "Wilf_Lin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044372595198644542",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044187063680152043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainBuild_2024 @Wilf_Lin 你此时陷入了迷茫，在没有目标的状态下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2044187063680152043",
+        "created_at": "2026-04-15T11:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044372595198644542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainBuild_2024"
+            },
+            {
+              "end": 25,
+              "id": "1554803647909097472",
+              "start": 16,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044372595198644542",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044187063680152043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2024 @Wilf_Lin 你此时陷入了迷茫，在没有目标的状态下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2044187063680152043",
+        "created_at": "2026-04-14T22:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T23:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044187063680152043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044187063680152043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 713,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有时候觉得活着也挺好的，死了也无所谓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "日常刷梗图，梗里藏着生活碎碎念～\n偶尔丢化学小知识＋精神碎片（精神化学小实录ing）\n还会一些小技能\n双相｜解离｜精神状况不稳定\n像白羽一样轻，却总在漂浮与坠落之间摇晃\n希望认识更多朋友，一起聊那些飘忽不定的心事～",
+        "id": "2041223587873312769",
+        "name": "黄昏（互关喵",
+        "pinned_tweet_id": "2044366210410873059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 63,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 25
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "id": "1810873766119100416",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042977093999570944/b0OIdVg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9521,
+          "following_count": 921,
+          "like_count": 76067,
+          "listed_count": 19,
+          "media_count": 1509,
+          "tweet_count": 10766
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神可能有问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 1441,
+          "like_count": 35736,
+          "listed_count": 4,
+          "media_count": 136,
+          "tweet_count": 6710
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      }
+    ]
+  }
+}

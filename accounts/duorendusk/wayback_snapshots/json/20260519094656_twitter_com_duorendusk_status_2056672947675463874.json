@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2056479947984691226",
+    "created_at": "2026-05-19T09:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056672947675463874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1612381098809634816",
+          "start": 0,
+          "username": "a_free_cat00"
+        },
+        {
+          "end": 29,
+          "id": "1260553941714186241",
+          "start": 14,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 41,
+          "id": "1223330088",
+          "start": 30,
+          "username": "yaozhang02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056672947675463874",
+    "in_reply_to_user_id": "1612381098809634816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056499835512164455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_free_cat00 @whyyoutouzhele @yaozhang02 呃，监狱有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2056479947984691226",
+        "created_at": "2026-05-19T09:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056672947675463874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1612381098809634816",
+              "start": 0,
+              "username": "a_free_cat00"
+            },
+            {
+              "end": 29,
+              "id": "1260553941714186241",
+              "start": 14,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 41,
+              "id": "1223330088",
+              "start": 30,
+              "username": "yaozhang02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056672947675463874",
+        "in_reply_to_user_id": "1612381098809634816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056499835512164455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_free_cat00 @whyyoutouzhele @yaozhang02 呃，监狱有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612381098809634816",
+        "conversation_id": "2056479947984691226",
+        "created_at": "2026-05-18T22:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T23:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056499835512164455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 27,
+              "id": "1223330088",
+              "start": 16,
+              "username": "yaozhang02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056499835512164455",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4078,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056479947984691226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele @yaozhang02 监狱也没有空调，学校管理向监狱看齐，但留学生除外。。🤢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 286,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 294
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T09:29:52.000Z",
+        "description": "已翻墙逃出的一只自由散漫的野猫。 追求自由民主，喜欢反讽专政。 家里圈养的粉红猫、无脑猫、脑残猫、嘴喷芬芳猫、乱发广告猫，请自觉绕道。与世无争，懒得与粉红争论，见一个屏蔽一个。@a_free_cat20为备用号。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "a_free_cat20"
+              }
+            ]
+          }
+        },
+        "id": "1612381098809634816",
+        "location": "東京",
+        "name": "自由散漫喵",
+        "pinned_tweet_id": "1897241655650242924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612381601757036545/1L-2e7ro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6906,
+          "following_count": 615,
+          "like_count": 37435,
+          "listed_count": 41,
+          "media_count": 2097,
+          "tweet_count": 10963
+        },
+        "username": "a_free_cat00",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231233,
+          "following_count": 1057,
+          "like_count": 9572,
+          "listed_count": 8760,
+          "media_count": 47056,
+          "tweet_count": 54178
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-27T01:18:35.000Z",
+        "description": "出生在中國，定居加拿大，前加拿大註冊會計師，現在認真經營反共頻道，努力支持台灣❤️ Youtube：https://t.co/UM25OEfIRz\nEmail: yaozhang2020@protonmail\n我媽媽的頻道：https://t.co/bXa0xyon4N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yaozhang3512",
+                "end": 73,
+                "expanded_url": "https://www.youtube.com/@yaozhang3512",
+                "start": 50,
+                "url": "https://t.co/UM25OEfIRz"
+              },
+              {
+                "display_url": "youtube.com/@over60926",
+                "end": 135,
+                "expanded_url": "https://www.youtube.com/@over60926",
+                "start": 112,
+                "url": "https://t.co/bXa0xyon4N"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCSL7f…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCSL7fa2GLhniFzw1_4EwQLw",
+                "start": 0,
+                "url": "https://t.co/OtOfnMyIrn"
+              }
+            ]
+          }
+        },
+        "id": "1223330088",
+        "location": "Canada",
+        "name": "Yao Zhang 張堯 🇨🇦",
+        "pinned_tweet_id": "2045228138200752349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040170057746333696/aFHQWQfm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39563,
+          "following_count": 2164,
+          "like_count": 210379,
+          "listed_count": 145,
+          "media_count": 3838,
+          "tweet_count": 183197
+        },
+        "url": "https://t.co/OtOfnMyIrn",
+        "username": "yaozhang02",
+        "verified": true
+      }
+    ]
+  }
+}

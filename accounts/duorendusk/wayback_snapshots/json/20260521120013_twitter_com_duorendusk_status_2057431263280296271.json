@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2057062781858591217",
+    "created_at": "2026-05-21T12:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057431263280296271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829075605964619776",
+          "start": 0,
+          "username": "Hwz00H96668"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057431263280296271",
+    "in_reply_to_user_id": "1829075605964619776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057356625531506739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hwz00H96668 想找骂了而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2057062781858591217",
+        "created_at": "2026-05-21T12:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057431263280296271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829075605964619776",
+              "start": 0,
+              "username": "Hwz00H96668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057431263280296271",
+        "in_reply_to_user_id": "1829075605964619776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057356625531506739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hwz00H96668 想找骂了而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829075605964619776",
+        "conversation_id": "2057062781858591217",
+        "created_at": "2026-05-21T07:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057356625531506739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057356625531506739",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057062781858591217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk 何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 302,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 330
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T08:36:32.000Z",
+        "description": "",
+        "id": "1829075605964619776",
+        "name": "健胃消食片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965396535669362688/NAzL9xOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 427,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "username": "Hwz00H96668",
+        "verified": false
+      }
+    ]
+  }
+}

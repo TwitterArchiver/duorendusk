@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2044904957489594368"
+      ]
+    },
+    "author_id": "2041223587873312769",
+    "conversation_id": "2046203477211361568",
+    "created_at": "2026-04-20T12:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046203477211361568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OZqgsIw0RZ",
+          "end": 39,
+          "expanded_url": "https://x.com/duorendusk/status/2046203477211361568/photo/1",
+          "media_key": "16_2044904957489594368",
+          "start": 16,
+          "url": "https://t.co/OZqgsIw0RZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046203477211361568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "外面的世界好可怕，还是被窝舒服 https://t.co/OZqgsIw0RZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 316,
+        "media_key": "16_2044904957489594368",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGD2OXaaQAAqEir.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGD2OXaaQAAqEir.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2044904957489594368"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "conversation_id": "2046203477211361568",
+        "created_at": "2026-04-20T12:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046203477211361568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZqgsIw0RZ",
+              "end": 39,
+              "expanded_url": "https://x.com/duorendusk/status/2046203477211361568/photo/1",
+              "media_key": "16_2044904957489594368",
+              "start": 16,
+              "url": "https://t.co/OZqgsIw0RZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046203477211361568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "外面的世界好可怕，还是被窝舒服 https://t.co/OZqgsIw0RZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 257,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 188
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

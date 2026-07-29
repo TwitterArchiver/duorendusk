@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2057416849604977053",
+    "created_at": "2026-05-21T12:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057445311442989075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2028321716049743872",
+          "start": 0,
+          "username": "xynMTFxyn"
+        },
+        {
+          "end": 22,
+          "id": "2054877291633909760",
+          "start": 11,
+          "username": "TransYuwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057445311442989075",
+    "in_reply_to_user_id": "2028321716049743872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057442765391417775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynMTFxyn @TransYuwen 那就更奇怪了，我很清楚我做了什么事情，我知道这并不值得被夸赞，夸赞是对我人生的侮辱，是讽刺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2057416849604977053",
+        "created_at": "2026-05-21T12:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057445311442989075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2028321716049743872",
+              "start": 0,
+              "username": "xynMTFxyn"
+            },
+            {
+              "end": 22,
+              "id": "2054877291633909760",
+              "start": 11,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057445311442989075",
+        "in_reply_to_user_id": "2028321716049743872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057442765391417775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynMTFxyn @TransYuwen 那就更奇怪了，我很清楚我做了什么事情，我知道这并不值得被夸赞，夸赞是对我人生的侮辱，是讽刺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028321716049743872",
+        "conversation_id": "2057416849604977053",
+        "created_at": "2026-05-21T12:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057442765391417775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            },
+            {
+              "end": 23,
+              "id": "2054877291633909760",
+              "start": 12,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057442765391417775",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057441126915915813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk @TransYuwen 抱抱你_(:з」∠)_\n按咱来说，其实没必要对自己这么苛刻喵\n对外界有反应是很正常的呀\n你的承受能力强 可以稳住自己，让自己的情绪没那么容易受外界影响而波动，每天更开心，更幸福，你很棒的！QWQ \n也许你会说谩骂对你没有用，但是如果我夸夸你呢喵，你在这个世界上已经很棒了！\n要开心，要幸福🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 305,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 342
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T04:14:51.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | 青岛|私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 非常helpful的南盺 | 小南 |",
+        "id": "2028321716049743872",
+        "name": "南盺酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055214856807313698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028373556783153152/usYeYRCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 112,
+          "like_count": 153,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 736
+        },
+        "username": "xynMTFxyn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 75公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍|",
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2057437079282606517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 33,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 658
+        },
+        "username": "TransYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

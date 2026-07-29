@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2060057573584519435",
+    "created_at": "2026-05-29T00:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T01:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060155854314475908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012958305308565505",
+          "start": 0,
+          "username": "raindreamya"
+        },
+        {
+          "end": 24,
+          "id": "2010816143846768640",
+          "start": 13,
+          "username": "luo_240110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060155854314475908",
+    "in_reply_to_user_id": "2012958305308565505",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060057573584519435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raindreamya @luo_240110 应急手铐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060057535844106241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbLagjawAEyjR2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2060057535873462273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbLagqasAE3guh.jpg",
+        "width": 1706
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060057535839932416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbLagibEAAUp4d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2060057573584519435",
+        "created_at": "2026-05-29T00:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060155854314475908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012958305308565505",
+              "start": 0,
+              "username": "raindreamya"
+            },
+            {
+              "end": 24,
+              "id": "2010816143846768640",
+              "start": 13,
+              "username": "luo_240110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060155854314475908",
+        "in_reply_to_user_id": "2012958305308565505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060057573584519435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raindreamya @luo_240110 应急手铐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060057535844106241",
+            "3_2060057535873462273",
+            "3_2060057535839932416"
+          ]
+        },
+        "author_id": "2012958305308565505",
+        "conversation_id": "2060057573584519435",
+        "created_at": "2026-05-28T17:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060057573584519435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2010816143846768640",
+              "start": 1,
+              "username": "luo_240110"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/73zUmS6zAv",
+              "end": 92,
+              "expanded_url": "https://x.com/raindreamya/status/2060057573584519435/photo/1",
+              "media_key": "3_2060057535844106241",
+              "start": 69,
+              "url": "https://t.co/73zUmS6zAv"
+            },
+            {
+              "display_url": "pic.x.com/73zUmS6zAv",
+              "end": 92,
+              "expanded_url": "https://x.com/raindreamya/status/2060057573584519435/photo/1",
+              "media_key": "3_2060057535873462273",
+              "start": 69,
+              "url": "https://t.co/73zUmS6zAv"
+            },
+            {
+              "display_url": "pic.x.com/73zUmS6zAv",
+              "end": 92,
+              "expanded_url": "https://x.com/raindreamya/status/2060057573584519435/photo/1",
+              "media_key": "3_2060057535839932416",
+              "start": 69,
+              "url": "https://t.co/73zUmS6zAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060057573584519435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9363,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "和@luo_240110 玩尼龙扎带给我们两人扎住了，剪刀也剪不开太厚了，去派出所没工具，消防救援关门了，最后打了119才解开，这期神了 https://t.co/73zUmS6zAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 318,
+          "like_count": 200,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 429
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T18:41:01.000Z",
+        "description": "🏳️‍⚧️🍥暂时是只刚出炉的mtf喵~🍥🏳️‍⚧️\n🏳️‍⚧️生产日期10.3.5 | 无证含糖 | 🍬HRT 26.2.13 | 💥 26.3.2 炸柜 |「常驻江浙沪」 |182cm 62kg | 这里可以通过tg联系窝喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rainsnowdream",
+                "end": 23,
+                "expanded_url": "http://t.me/rainsnowdream",
+                "start": 0,
+                "url": "https://t.co/gbPraZolk2"
+              }
+            ]
+          }
+        },
+        "id": "2012958305308565505",
+        "name": "雨梦🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043635114064986112/vB72dk36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 141,
+          "like_count": 1232,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/gbPraZolk2",
+        "username": "raindreamya",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T20:48:47.000Z",
+        "description": "話したくない｜Ciallo～(∠・ω ≤ )︵★四代目",
+        "id": "2010816143846768640",
+        "location": "地球",
+        "name": "Ciallo🍥",
+        "pinned_tweet_id": "2058950293937958932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058074498285617152/2kdhJxKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 180,
+          "like_count": 293,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 357
+        },
+        "username": "luo_240110",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045345063148957696"
+      ],
+      "media_source_tweet_id": [
+        "2045345065241858160"
+      ]
+    },
+    "author_id": "2041223587873312769",
+    "conversation_id": "2045372082549371258",
+    "created_at": "2026-04-18T05:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045372082549371258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843360729199718404",
+          "start": 3,
+          "username": "longlongp97w"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/acqQMloJqu",
+          "end": 56,
+          "expanded_url": "https://x.com/longlongp97w/status/2045345065241858160/photo/1",
+          "media_key": "3_2045345063148957696",
+          "start": 33,
+          "url": "https://t.co/acqQMloJqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045372082549371258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045345065241858160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @longlongp97w: 我每天就等着这俩玩意冒小蓝点 https://t.co/acqQMloJqu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045372082549371258].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045372082549371258",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045372082549371258"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 291,
+        "media_key": "3_2045345063148957696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKGf4wXsAAxSm9.jpg",
+        "width": 398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045345063148957696"
+          ]
+        },
+        "author_id": "1843360729199718404",
+        "conversation_id": "2045345065241858160",
+        "created_at": "2026-04-18T03:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045345065241858160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/acqQMloJqu",
+              "end": 38,
+              "expanded_url": "https://x.com/longlongp97w/status/2045345065241858160/photo/1",
+              "media_key": "3_2045345063148957696",
+              "start": 15,
+              "url": "https://t.co/acqQMloJqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045345065241858160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我每天就等着这俩玩意冒小蓝点 https://t.co/acqQMloJqu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 223,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 151
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T18:40:31.000Z",
+        "description": "‼️‼️‼️如果我的帖子让您感到不适，请立即拉黑我不要恶评，谢谢‼️‼️‼️一个人在ny上学，19岁，艺术生，现实无社交，双，但是自救成功，目前稳定（这段时间被恶心了应该不稳定了）人在国外上推方便，拿推来岁岁念+记录日常+宣泄负面情绪，讨厌圈子不想聊黄（和陌生人聊太蠢了这个）然后我不是同！想多找互关呀， #碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 157,
+                "start": 153,
+                "tag": "碎碎念"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 0,
+                "url": "https://t.co/oCgXhmsjYs"
+              }
+            ]
+          }
+        },
+        "id": "1843360729199718404",
+        "location": "阿美莉卡",
+        "name": "龙long",
+        "pinned_tweet_id": "2045270964162699734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041004546806468608/r_cGy1V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 98,
+          "like_count": 3366,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/oCgXhmsjYs",
+        "username": "longlongp97w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2044868433008071062",
+    "created_at": "2026-04-17T01:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T02:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044958367039512796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044958367039512796",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044868433008071062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI 气抖冷，男人什么时候才能站起来，就不能是自己玩玩具不小心留下来的吗，你都没看到他被别人玩，就先急着分手"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2043894786986512384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1fetCakAAwRxt.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2044868433008071062",
+        "created_at": "2026-04-17T01:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T02:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044958367039512796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044958367039512796",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044868433008071062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 气抖冷，男人什么时候才能站起来，就不能是自己玩玩具不小心留下来的吗，你都没看到他被别人玩，就先急着分手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043894786986512384"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2044868433008071062",
+        "created_at": "2026-04-16T20:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044868433008071062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YjwMDQVwlY",
+              "end": 42,
+              "expanded_url": "https://x.com/BI3BXI/status/2044868433008071062/photo/1",
+              "media_key": "3_2043894786986512384",
+              "start": 19,
+              "url": "https://t.co/YjwMDQVwlY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044868433008071062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1372,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想开点，万一是穿假jj的女s留下的呢 https://t.co/YjwMDQVwlY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "日常刷梗图，梗里藏着生活碎碎念～\n偶尔丢化学小知识＋精神碎片（精神化学小实录ing）\n还会一些小技能\n双相｜解离｜精神状况不稳定\n像白羽一样轻，却总在漂浮与坠落之间摇晃\n希望认识更多朋友，一起聊那些飘忽不定的心事～",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2044279587132297601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 110,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 103
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "海棠花开 真情为您｜Premium+｜🏳️‍🌈Enby🏳️‍⚧️\nCrush（？）@XUEQIUxka 好姐姐 @Tennoujinyano\n❤️@show5560 本垢@yqua_\n好伙伴@hoshinofujivy @Jimi_yang22770",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "show5560"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "username": "yqua_"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "Jimi_yang22770"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8630,
+          "following_count": 4040,
+          "like_count": 41579,
+          "listed_count": 25,
+          "media_count": 2681,
+          "tweet_count": 10467
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

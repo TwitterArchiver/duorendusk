@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2044807362230526240",
+    "created_at": "2026-04-16T15:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044807364608745653"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044807364608745653",
+    "in_reply_to_user_id": "2041223587873312769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044807362230526240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "地气就是袜子的受力面最多\n\n人气在袜子内部积累\n\n所以我个人不喜欢吃那丝袜,太薄太长,掌握不好火候容易串味\n\n只有短袜\n\n最好是白的\n\n哎,能把这个气味激发出来\n\n天地人三气综合\n\n不得了啊,吃了能长寿\n\n吃的时候那更有讲究了\n\n要品味食物的灵魂\n\n一定要逐寸逐寸的细嚼慢咽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2044807362230526240",
+        "created_at": "2026-04-16T15:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044807364608745653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044807364608745653",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044807362230526240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "地气就是袜子的受力面最多\n\n人气在袜子内部积累\n\n所以我个人不喜欢吃那丝袜,太薄太长,掌握不好火候容易串味\n\n只有短袜\n\n最好是白的\n\n哎,能把这个气味激发出来\n\n天地人三气综合\n\n不得了啊,吃了能长寿\n\n吃的时候那更有讲究了\n\n要品味食物的灵魂\n\n一定要逐寸逐寸的细嚼慢咽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2044807362230526240",
+        "created_at": "2026-04-16T15:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044807362230526240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044807362230526240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脚这个东西,它是人天生的一个器官,虽然很自然,但是在美上边, 多少有点缺陷\n\n我个人是不愿意直接吃\n\n袜子,作为一种衣服,他是人发明出来的,包含了人类对于美学的探索\n\n这一穿袜子,一戴手套\n\n不得了，瞬间就变漂亮了\n\n这袜子是吧\n\n怎么吃?\n\n它分天气,地气,人气\n\n天气就是袜子口接触空气那一部分最浓郁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "日常刷梗图，梗里藏着生活碎碎念～\n偶尔丢化学小知识＋精神碎片（精神化学小实录ing）\n还会一些小技能\n双相｜解离｜精神状况不稳定\n像白羽一样轻，却总在漂浮与坠落之间摇晃\n希望认识更多朋友，一起聊那些飘忽不定的心事～",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2044279587132297601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 109,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 98
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

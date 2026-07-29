@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2044467357125644732",
+    "created_at": "2026-04-16T04:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T05:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044636082923606416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013233628847980544",
+          "start": 0,
+          "username": "Asukai_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044636082923606416",
+    "in_reply_to_user_id": "2013233628847980544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044467357125644732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asukai_Yuki 小透明捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2044467357125644732",
+        "created_at": "2026-04-16T04:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044636082923606416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013233628847980544",
+              "start": 0,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044636082923606416",
+        "in_reply_to_user_id": "2013233628847980544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044467357125644732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asukai_Yuki 小透明捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013233628847980544",
+        "conversation_id": "2044467357125644732",
+        "created_at": "2026-04-15T17:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044467357125644732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044467357125644732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我被推友们忘记了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "日常刷梗图，梗里藏着生活碎碎念～\n偶尔丢化学小知识＋精神碎片（精神化学小实录ing）\n还会一些小技能\n双相｜解离｜精神状况不稳定\n像白羽一样轻，却总在漂浮与坠落之间摇晃\n希望认识更多朋友，一起聊那些飘忽不定的心事～",
+        "id": "2041223587873312769",
+        "name": "黄昏（互关喵",
+        "pinned_tweet_id": "2044279587132297601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 84,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 63
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈＝郁希/飛鳥井ゆき | enby 泛性恋无浪漫，和我的琴已经结婚 | 06| 双相焦虑 | 🎸🎨  | rock'n'roll | oc | 我见你如于深井中窥飞鸟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 0,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "喜欢我请给我打钱❤️",
+        "name": "郁希",
+        "pinned_tweet_id": "2041094444750106844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030567969726840832/5gci_IPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 197,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2078
+        },
+        "url": "https://t.co/1wmN2eVRYQ",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

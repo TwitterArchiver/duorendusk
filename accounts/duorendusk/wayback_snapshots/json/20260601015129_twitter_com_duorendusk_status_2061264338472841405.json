@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2060935013395468732",
+    "created_at": "2026-06-01T01:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061264338472841405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "themaidoutfit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061264338472841405",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060935013395468732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@themaidoutfit 我本是男儿郎，又不是女娇娥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2226,
+        "media_key": "3_2060935004281331712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnpd5NbYAAma0w.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2060935013395468732",
+        "created_at": "2026-06-01T01:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061264338472841405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "themaidoutfit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061264338472841405",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060935013395468732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaidoutfit 我本是男儿郎，又不是女娇娥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060935004281331712"
+          ]
+        },
+        "author_id": "1903701047589343232",
+        "conversation_id": "2060935013395468732",
+        "created_at": "2026-05-31T04:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060935013395468732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xBt3tOXt6",
+              "end": 121,
+              "expanded_url": "https://x.com/themaidoutfit/status/2060935013395468732/photo/1",
+              "media_key": "3_2060935004281331712",
+              "start": 98,
+              "url": "https://t.co/1xBt3tOXt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060935013395468732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 258,
+          "impression_count": 47110,
+          "like_count": 904,
+          "quote_count": 5,
+          "reply_count": 55,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我本身是男生，只是希望身上带一点柔和的特质，但并不想被贴上跨性别、男娘这类标签。我性格就是直和硬朗，和“娘”完全不沾边，与其被这样看待，不如当我是普通男生。被一直当成女生这种事是奢求，我做不到。 https://t.co/1xBt3tOXt6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 324,
+          "like_count": 208,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 462
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "🏚️乡下老头",
+        "id": "1903701047589343232",
+        "name": "昏睡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058168508731830272/qH6gYtsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4672,
+          "following_count": 1678,
+          "like_count": 10150,
+          "listed_count": 11,
+          "media_count": 19,
+          "tweet_count": 1782
+        },
+        "username": "themaidoutfit",
+        "verified": false
+      }
+    ]
+  }
+}

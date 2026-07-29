@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2045168057379951087",
+    "created_at": "2026-04-18T04:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T05:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045364595108560922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1916005601563590656",
+          "start": 0,
+          "username": "Qiongli_BAKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045364595108560922",
+    "in_reply_to_user_id": "1916005601563590656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045168057379951087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiongli_BAKA 我也有一台P8，电池废了，之前插电还能开机，到后来插电也不行了，一直卡在开机界面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045168037444419584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHlfonbgAAaTGu.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045168037456908290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHlfoqaEAImVfB.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045168057379951087",
+        "created_at": "2026-04-18T04:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045364595108560922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1916005601563590656",
+              "start": 0,
+              "username": "Qiongli_BAKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045364595108560922",
+        "in_reply_to_user_id": "1916005601563590656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045168057379951087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiongli_BAKA 我也有一台P8，电池废了，之前插电还能开机，到后来插电也不行了，一直卡在开机界面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045168037444419584",
+            "3_2045168037456908290"
+          ]
+        },
+        "author_id": "1916005601563590656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2045168057379951087",
+        "created_at": "2026-04-17T15:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045168057379951087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0Ouf5cYFZ",
+              "end": 146,
+              "expanded_url": "https://x.com/Qiongli_BAKA/status/2045168057379951087/photo/1",
+              "media_key": "3_2045168037444419584",
+              "start": 123,
+              "url": "https://t.co/M0Ouf5cYFZ"
+            },
+            {
+              "display_url": "pic.x.com/M0Ouf5cYFZ",
+              "end": 146,
+              "expanded_url": "https://x.com/Qiongli_BAKA/status/2045168057379951087/photo/1",
+              "media_key": "3_2045168037456908290",
+              "start": 123,
+              "url": "https://t.co/M0Ouf5cYFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045168057379951087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "废物华为p8\nApple Music18年以后的版本同步资料库就闪退\n安卓6根摆设一样\n废物安装器安装个软件要半个小时\n不如oppo r7一根，r7还能看1080p60的视频，一些新软件还不卡\n一个年份的手机华为怎么这么废物\nam只能用2.0了 https://t.co/M0Ouf5cYFZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 221,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 145
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T05:45:16.000Z",
+        "description": "start\n一切新的开始",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/3tPgjPG",
+                "end": 23,
+                "expanded_url": "https://b23.tv/3tPgjPG",
+                "start": 0,
+                "url": "https://t.co/GTQahueaFa"
+              }
+            ]
+          }
+        },
+        "id": "1916005601563590656",
+        "location": "fufu头顶上",
+        "name": "穹璃吖",
+        "pinned_tweet_id": "2040319119116095571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043239285445599232/8NR-8Gxj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 827,
+          "like_count": 3286,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/GTQahueaFa",
+        "username": "Qiongli_BAKA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2060600593303892412",
+    "created_at": "2026-05-30T05:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060600593303892412"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060600593303892412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么每周是周六日放假呢\n改成周日加周一到周五任意一天不好吗？\n这样不会休假的时候这个关门了，那个干不了，办点什么事真的方便很多×"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2060600593303892412",
+        "created_at": "2026-05-30T05:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060600593303892412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060600593303892412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么每周是周六日放假呢\n改成周日加周一到周五任意一天不好吗？\n这样不会休假的时候这个关门了，那个干不了，办点什么事真的方便很多×"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 323,
+          "like_count": 206,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 450
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

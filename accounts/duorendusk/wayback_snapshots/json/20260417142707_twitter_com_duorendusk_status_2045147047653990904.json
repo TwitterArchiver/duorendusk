@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2045106098928333080",
+    "created_at": "2026-04-17T14:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045147047653990904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        },
+        {
+          "end": 26,
+          "id": "1781510736000274432",
+          "start": 17,
+          "username": "huantim1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045147047653990904",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045145986205642859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS @huantim1 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045106098928333080",
+        "created_at": "2026-04-17T14:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045147047653990904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            },
+            {
+              "end": 26,
+              "id": "1781510736000274432",
+              "start": 17,
+              "username": "huantim1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045147047653990904",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045145986205642859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS @huantim1 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2045106098928333080",
+        "created_at": "2026-04-17T14:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045145986205642859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            },
+            {
+              "end": 21,
+              "id": "1781510736000274432",
+              "start": 12,
+              "username": "huantim1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045145986205642859",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045106098928333080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk @huantim1 喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 187,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 134
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4112,
+          "following_count": 3170,
+          "like_count": 1224,
+          "listed_count": 15,
+          "media_count": 224,
+          "tweet_count": 1539
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n是mtx 无性恋\n成分正常的来互fo喵\n上海某高一牲\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huantim",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huantim",
+                "start": 0,
+                "url": "https://t.co/4Um5sVuC41"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮纱",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026628026642153472/5ZROLnX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 638,
+          "like_count": 42833,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 4219
+        },
+        "url": "https://t.co/4Um5sVuC41",
+        "username": "huantim1",
+        "verified": false
+      }
+    ]
+  }
+}

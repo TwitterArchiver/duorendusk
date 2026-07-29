@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2057032851594575993",
+    "created_at": "2026-05-20T10:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057052548432032043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057052548432032043",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057032851594575993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2057032851594575993",
+        "created_at": "2026-05-20T10:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057052548432032043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057052548432032043",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057032851594575993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989517742127652866",
+        "conversation_id": "2057032851594575993",
+        "created_at": "2026-05-20T09:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057032851594575993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057032851594575993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有新的关注但是fo数量增加了？\n是有推u的帐号复活了吗喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 290,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 304
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "2025.11 重生喵~\n一般路过 可以叫我553\n09 MTX？\n（负能量预警）\n查成分回fo\n看黄男&粉红勿扰\n逃生舱@agsg_553\n提问箱喵➡️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "agsg_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "http://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/nKx3eptIuF"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "location": "REMEMBER MAZE",
+        "name": "AG553🏳️‍⚧️",
+        "pinned_tweet_id": "2055235631958389230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009425649296134149/7XVRu4Xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1588,
+          "like_count": 34585,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 3093
+        },
+        "url": "https://t.co/nKx3eptIuF",
+        "username": "AGNK_553",
+        "verified": false
+      }
+    ]
+  }
+}

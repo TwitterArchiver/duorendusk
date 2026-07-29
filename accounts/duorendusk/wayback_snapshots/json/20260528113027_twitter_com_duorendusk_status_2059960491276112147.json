@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2059595218727641476",
+    "created_at": "2026-05-28T11:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059960491276112147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891955358924738560",
+          "start": 0,
+          "username": "7xiaoren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059960491276112147",
+    "in_reply_to_user_id": "1891955358924738560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059872199625052282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xiaoren 传奇，多为自己活吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1940,
+        "media_key": "3_2059872191265828864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYi2CMa8AAM5vZ.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2059595218727641476",
+        "created_at": "2026-05-28T11:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059960491276112147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891955358924738560",
+              "start": 0,
+              "username": "7xiaoren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059960491276112147",
+        "in_reply_to_user_id": "1891955358924738560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059872199625052282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xiaoren 传奇，多为自己活吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059872191265828864"
+          ]
+        },
+        "author_id": "1891955358924738560",
+        "conversation_id": "2059595218727641476",
+        "created_at": "2026-05-28T05:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059872199625052282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nipJwEXmZf",
+              "end": 48,
+              "expanded_url": "https://x.com/7xiaoren/status/2059872199625052282/photo/1",
+              "media_key": "3_2059872191265828864",
+              "start": 25,
+              "url": "https://t.co/nipJwEXmZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059872199625052282",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059595218727641476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk 没人比我更懂给老登爆金币 https://t.co/nipJwEXmZf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 318,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 414
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T20:58:16.000Z",
+        "description": "如果你想起我是谁，记得忘了我",
+        "id": "1891955358924738560",
+        "name": "㸦卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891956482796814337/4ik8Ta4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 102,
+          "like_count": 15508,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 1623
+        },
+        "username": "7xiaoren",
+        "verified": false
+      }
+    ]
+  }
+}

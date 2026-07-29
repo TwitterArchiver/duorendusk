@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2063768571155767494",
+    "created_at": "2026-06-08T00:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063775536175005784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891955358924738560",
+          "start": 0,
+          "username": "7xiaoren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063775536175005784",
+    "in_reply_to_user_id": "1891955358924738560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063773026345513282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xiaoren 没认出来，感觉挺高级的，我以前买的是很小的瓶子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2063768571155767494",
+        "created_at": "2026-06-08T00:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063775536175005784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891955358924738560",
+              "start": 0,
+              "username": "7xiaoren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063775536175005784",
+        "in_reply_to_user_id": "1891955358924738560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063773026345513282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xiaoren 没认出来，感觉挺高级的，我以前买的是很小的瓶子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891955358924738560",
+        "conversation_id": "2063768571155767494",
+        "created_at": "2026-06-08T00:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063773026345513282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063773026345513282",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063771276758642810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk rush啊（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 325,
+          "like_count": 220,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 499
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T20:58:16.000Z",
+        "description": "如果你想起我是谁，记得忘了我",
+        "id": "1891955358924738560",
+        "name": "㸦卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891956482796814337/4ik8Ta4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 99,
+          "like_count": 15825,
+          "listed_count": 1,
+          "media_count": 341,
+          "tweet_count": 1688
+        },
+        "username": "7xiaoren",
+        "verified": false
+      }
+    ]
+  }
+}

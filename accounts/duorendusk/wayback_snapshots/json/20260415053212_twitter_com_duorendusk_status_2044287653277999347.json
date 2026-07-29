@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044287647762526209"
+      ]
+    },
+    "author_id": "2041223587873312769",
+    "conversation_id": "2044287653277999347",
+    "created_at": "2026-04-15T05:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T06:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044287653277999347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dd50oOr80z",
+          "end": 42,
+          "expanded_url": "https://x.com/duorendusk/status/2044287653277999347/photo/1",
+          "media_key": "3_2044287647762526209",
+          "start": 19,
+          "url": "https://t.co/dd50oOr80z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044287653277999347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把车轮胎惹生气了，现在不知道怎么哄了 https://t.co/dd50oOr80z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2044287647762526209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7EyNeasAEm33D.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044287647762526209"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "conversation_id": "2044287653277999347",
+        "created_at": "2026-04-15T05:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044287653277999347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dd50oOr80z",
+              "end": 42,
+              "expanded_url": "https://x.com/duorendusk/status/2044287653277999347/photo/1",
+              "media_key": "3_2044287647762526209",
+              "start": 19,
+              "url": "https://t.co/dd50oOr80z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044287653277999347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把车轮胎惹生气了，现在不知道怎么哄了 https://t.co/dd50oOr80z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "日常刷梗图，梗里藏着生活碎碎念～\n偶尔丢化学小知识＋精神碎片（精神化学小实录ing）\n还会一些小技能\n双相｜解离｜精神状况不稳定\n像白羽一样轻，却总在漂浮与坠落之间摇晃\n希望认识更多朋友，一起聊那些飘忽不定的心事～",
+        "id": "2041223587873312769",
+        "name": "黄昏（互关喵",
+        "pinned_tweet_id": "2044278523909812479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

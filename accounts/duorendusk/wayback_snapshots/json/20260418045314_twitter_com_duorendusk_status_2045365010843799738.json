@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2045096767369437326",
+    "created_at": "2026-04-18T04:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T05:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045365010843799738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        },
+        {
+          "end": 30,
+          "id": "1561753484512612353",
+          "start": 15,
+          "username": "Moutai_H_Maple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045365010843799738",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045179656631148693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug @Moutai_H_Maple 不能，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045096767369437326",
+        "created_at": "2026-04-18T04:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045365010843799738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 30,
+              "id": "1561753484512612353",
+              "start": 15,
+              "username": "Moutai_H_Maple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045365010843799738",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045179656631148693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @Moutai_H_Maple 不能，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2045096767369437326",
+        "created_at": "2026-04-17T16:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045179656631148693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1561753484512612353",
+              "start": 0,
+              "username": "Moutai_H_Maple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045179656631148693",
+        "in_reply_to_user_id": "1561753484512612353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4650,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045096767369437326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moutai_H_Maple 吧友一个月能跟这四个里任何一个不一样的陌生人说上一句话不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 221,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 146
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 256,
+          "like_count": 1810,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 2511
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-22T16:34:03.000Z",
+        "description": "男同性恋，自认携带y染负能量病毒载体，靠近会被污染。\n尝试学徒（Apprentice）、观众（Spectator）双途径｜目标是晋升真神—一只名为土豆的英短蓝白猫。",
+        "id": "1561753484512612353",
+        "location": "Edmonton, Alberta",
+        "name": "茅茅taiiiiii",
+        "pinned_tweet_id": "2044829235974717911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988309263115317248/IS5Aq8xZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 228,
+          "like_count": 1635,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 1791
+        },
+        "username": "Moutai_H_Maple",
+        "verified": true
+      }
+    ]
+  }
+}

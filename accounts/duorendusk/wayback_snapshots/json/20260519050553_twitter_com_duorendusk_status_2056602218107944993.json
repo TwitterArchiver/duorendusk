@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2056557101498146995",
+    "created_at": "2026-05-19T05:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056602218107944993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1854224109011664896",
+          "start": 0,
+          "username": "A5Tr41"
+        },
+        {
+          "end": 18,
+          "id": "2026876224589701120",
+          "start": 8,
+          "username": "R1k0xo33w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056602218107944993",
+    "in_reply_to_user_id": "1854224109011664896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056578381102428486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A5Tr41 @R1k0xo33w 什么地区，医院联网吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2056557101498146995",
+        "created_at": "2026-05-19T05:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056602218107944993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1854224109011664896",
+              "start": 0,
+              "username": "A5Tr41"
+            },
+            {
+              "end": 18,
+              "id": "2026876224589701120",
+              "start": 8,
+              "username": "R1k0xo33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056602218107944993",
+        "in_reply_to_user_id": "1854224109011664896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056578381102428486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A5Tr41 @R1k0xo33w 什么地区，医院联网吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854224109011664896",
+        "conversation_id": "2056557101498146995",
+        "created_at": "2026-05-19T03:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056578381102428486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026876224589701120",
+              "start": 0,
+              "username": "R1k0xo33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056578381102428486",
+        "in_reply_to_user_id": "2026876224589701120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056571084410081367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1k0xo33w 医生和我说领导定的最多14 实在不行再开点阿普这样 但是我换地方了想要点阿普不知道会不会给….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 286,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 294
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T18:07:41.000Z",
+        "description": "✨痛苦是存在的证明吗✨  @sayoricat8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "sayoricat8964"
+              }
+            ]
+          }
+        },
+        "id": "1854224109011664896",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "☁️🪼",
+        "pinned_tweet_id": "1985437363196346747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989485324633006080/rC_z4dd8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 103,
+          "like_count": 867,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 3350
+        },
+        "username": "A5Tr41",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-26T04:25:31.000Z",
+        "description": "一直在找我是谁#颓废磕药#是个可爱的孩子#",
+        "id": "2026876224589701120",
+        "name": "鲤",
+        "pinned_tweet_id": "2035834585226019160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038180445620453376/K2BlHK_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 94,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 452
+        },
+        "username": "R1k0xo33w",
+        "verified": false
+      }
+    ]
+  }
+}

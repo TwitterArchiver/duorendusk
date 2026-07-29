@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057137453883088904"
+      ],
+      "media_source_tweet_id": [
+        "2057137635127365682"
+      ]
+    },
+    "author_id": "2041223587873312769",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057340393986122049",
+    "created_at": "2026-05-21T05:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057340393986122049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fssW2G2Hs4",
+          "end": 48,
+          "expanded_url": "https://x.com/bui_tu46916/status/2057137635127365682/video/1",
+          "media_key": "13_2057137453883088904",
+          "start": 25,
+          "url": "https://t.co/fssW2G2Hs4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057340393986122049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057137635127365682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: 是药效还是爱呢 https://t.co/fssW2G2Hs4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45000,
+        "height": 1080,
+        "media_key": "13_2057137453883088904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057137453883088904/img/1miMlN7teY6gHvFB.jpg",
+        "public_metrics": {
+          "view_count": 169
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057137453883088904/vid/avc1/480x270/FYXWRkWE6ZEQZWpA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057137453883088904/vid/avc1/640x360/GMU4NL1oc2CxsJkJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057137453883088904/vid/avc1/1280x720/hkJ9V-1dZhpz9ZxC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057137453883088904/pl/H7_rOnMGmaOTClEW.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057137453883088904"
+          ],
+          "media_source_tweet_id": [
+            "2057137635127365682"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057340393986122049",
+        "created_at": "2026-05-21T05:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057340393986122049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fssW2G2Hs4",
+              "end": 48,
+              "expanded_url": "https://x.com/bui_tu46916/status/2057137635127365682/video/1",
+              "media_key": "13_2057137453883088904",
+              "start": 25,
+              "url": "https://t.co/fssW2G2Hs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057340393986122049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057137635127365682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: 是药效还是爱呢 https://t.co/fssW2G2Hs4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057137453883088904"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2057137635127365682",
+        "created_at": "2026-05-20T16:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057137635127365682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fssW2G2Hs4",
+              "end": 31,
+              "expanded_url": "https://x.com/bui_tu46916/status/2057137635127365682/video/1",
+              "media_key": "13_2057137453883088904",
+              "start": 8,
+              "url": "https://t.co/fssW2G2Hs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057137635127365682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "是药效还是爱呢 https://t.co/fssW2G2Hs4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 296,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 321
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜见证勿扰｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 212,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 630
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2076517024176709949",
+    "created_at": "2026-07-13T04:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076522433885200689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947564512984567808",
+          "start": 0,
+          "username": "LINKINGMadoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076522433885200689",
+    "in_reply_to_user_id": "1947564512984567808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076517024176709949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LINKINGMadoka 好抽象"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2076514326660407296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFCxzuaYAAQqqu.jpg",
+        "width": 721
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2076514334243790848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFCyP-boAAJr48.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2076514346805657600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFCy-xagAAdtdp.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2076514359925477376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFCzvpbEAAz7MH.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2076517024176709949",
+        "created_at": "2026-07-13T04:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076522433885200689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947564512984567808",
+              "start": 0,
+              "username": "LINKINGMadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076522433885200689",
+        "in_reply_to_user_id": "1947564512984567808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076517024176709949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LINKINGMadoka 好抽象"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076514326660407296",
+            "3_2076514334243790848",
+            "3_2076514346805657600",
+            "3_2076514359925477376"
+          ]
+        },
+        "author_id": "1947564512984567808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076517024176709949",
+        "created_at": "2026-07-13T04:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076517024176709949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fnfqtBLUMu",
+              "end": 75,
+              "expanded_url": "https://x.com/LINKINGMadoka/status/2076517024176709949/photo/1",
+              "media_key": "3_2076514326660407296",
+              "start": 52,
+              "url": "https://t.co/fnfqtBLUMu"
+            },
+            {
+              "display_url": "pic.x.com/fnfqtBLUMu",
+              "end": 75,
+              "expanded_url": "https://x.com/LINKINGMadoka/status/2076517024176709949/photo/1",
+              "media_key": "3_2076514334243790848",
+              "start": 52,
+              "url": "https://t.co/fnfqtBLUMu"
+            },
+            {
+              "display_url": "pic.x.com/fnfqtBLUMu",
+              "end": 75,
+              "expanded_url": "https://x.com/LINKINGMadoka/status/2076517024176709949/photo/1",
+              "media_key": "3_2076514346805657600",
+              "start": 52,
+              "url": "https://t.co/fnfqtBLUMu"
+            },
+            {
+              "display_url": "pic.x.com/fnfqtBLUMu",
+              "end": 75,
+              "expanded_url": "https://x.com/LINKINGMadoka/status/2076517024176709949/photo/1",
+              "media_key": "3_2076514359925477376",
+              "start": 52,
+              "url": "https://t.co/fnfqtBLUMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076517024176709949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "按着打桩猛操，打出白沫，从后面强制掐脖子，疯狂抽插操成泡芙，干到眼睛翻白眼，整栋楼都能听见惨叫声😈😈😈 https://t.co/fnfqtBLUMu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 331,
+          "like_count": 271,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 558
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T07:49:16.000Z",
+        "description": "02年mtx&泛性恋｜hrt in 2025.6｜od｜家长党｜ADHD｜同类互fo｜坐标江苏泰州｜亲爱的@ashasw114514｜妹妹@Chiyuyu520｜脑残  患有did和癔症｜厌男 郭蛆退散｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+sz6i6N60Epo3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+sz6i6N60Epo3NmE1",
+                "start": 0,
+                "url": "https://t.co/WpZdDzPSRA"
+              }
+            ]
+          }
+        },
+        "id": "1947564512984567808",
+        "location": "天国",
+        "name": "LinKing阿圆🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984197385401368576/nM0gB57M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1353,
+          "like_count": 1659,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 1703
+        },
+        "url": "https://t.co/WpZdDzPSRA",
+        "username": "LINKINGMadoka",
+        "verified": false
+      }
+    ]
+  }
+}

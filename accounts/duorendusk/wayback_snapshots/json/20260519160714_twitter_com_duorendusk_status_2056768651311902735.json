@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2056768645871849891",
+    "created_at": "2026-05-19T16:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056768651311902735"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056768651311902735",
+    "in_reply_to_user_id": "2041223587873312769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056768648476598478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "5.顾客的要求是强制的，哪怕饮品做好后他们要求去冰。也要损失咖啡液浓度将冰块去除，因为“他们”不喝咖啡，请不要让他们意识到自己饮品中最重要的成分是咖啡液。\n6.你可以在规则之下寻找漏洞，但来自“他们”的视频检查往往会延迟很久对你的违规行为进行反馈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2056768645871849891",
+        "created_at": "2026-05-19T16:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056768651311902735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056768651311902735",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056768648476598478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5.顾客的要求是强制的，哪怕饮品做好后他们要求去冰。也要损失咖啡液浓度将冰块去除，因为“他们”不喝咖啡，请不要让他们意识到自己饮品中最重要的成分是咖啡液。\n6.你可以在规则之下寻找漏洞，但来自“他们”的视频检查往往会延迟很久对你的违规行为进行反馈。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2056768645871849891",
+        "created_at": "2026-05-19T16:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056768648476598478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056768648476598478",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056768645871849891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3.员工在工作间内可以佩戴蓝色丁晴手套，但要时刻注意你的手套是活的，它会试图破坏自己让自己的碎片进入自制饮品中。\n4.前台出餐岗的伙伴面临的不只有人类顾客还存在伪装成人类的外星人，蜥蜴人，甚至是穿越者。请友善引到他们扫码下单，切记他们看不见名为二维码的图案，请不要暴露你跟他们不一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 287,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 311
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

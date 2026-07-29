@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2044377437170196704",
+    "created_at": "2026-04-15T11:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044377437170196704"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044377437170196704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没人管一下大学就业率超百分之90的事情吗？现在的就业率真的好离谱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2044377437170196704",
+        "created_at": "2026-04-15T11:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044377437170196704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044377437170196704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人管一下大学就业率超百分之90的事情吗？现在的就业率真的好离谱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "日常刷梗图，梗里藏着生活碎碎念～\n偶尔丢化学小知识＋精神碎片（精神化学小实录ing）\n还会一些小技能\n双相｜解离｜精神状况不稳定\n像白羽一样轻，却总在漂浮与坠落之间摇晃\n希望认识更多朋友，一起聊那些飘忽不定的心事～",
+        "id": "2041223587873312769",
+        "name": "黄昏（互关喵",
+        "pinned_tweet_id": "2044366210410873059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 68,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 25
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

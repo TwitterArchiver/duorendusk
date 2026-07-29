@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2044238041406156888",
+    "created_at": "2026-04-15T17:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T18:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044469641909834092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552325529705287681",
+          "start": 0,
+          "username": "LOTUSSSB"
+        },
+        {
+          "end": 21,
+          "id": "1509391402484080646",
+          "start": 10,
+          "username": "moran_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044469641909834092",
+    "in_reply_to_user_id": "1552325529705287681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044455042045120584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LOTUSSSB @moran_neko 不用国产软件还是挺好用的手机\n哪怕现在当个备用机，只用国外软件还是可以使用的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2044238041406156888",
+        "created_at": "2026-04-15T17:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044469641909834092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552325529705287681",
+              "start": 0,
+              "username": "LOTUSSSB"
+            },
+            {
+              "end": 21,
+              "id": "1509391402484080646",
+              "start": 10,
+              "username": "moran_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044469641909834092",
+        "in_reply_to_user_id": "1552325529705287681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044455042045120584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LOTUSSSB @moran_neko 不用国产软件还是挺好用的手机\n哪怕现在当个备用机，只用国外软件还是可以使用的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552325529705287681",
+        "conversation_id": "2044238041406156888",
+        "created_at": "2026-04-15T16:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044455042045120584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            },
+            {
+              "end": 23,
+              "id": "1509391402484080646",
+              "start": 12,
+              "username": "moran_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044455042045120584",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044288126395539905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk @moran_neko 没用过R6但是用过leitz phone1，完全卡的不能用，888烫到怀疑人生，一点都不完美，特别是对焦还喜欢拉风箱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "日常刷梗图，梗里藏着生活碎碎念～\n偶尔丢化学小知识＋精神碎片（精神化学小实录ing）\n还会一些小技能\n双相｜解离｜精神状况不稳定\n像白羽一样轻，却总在漂浮与坠落之间摇晃\n希望认识更多朋友，一起聊那些飘忽不定的心事～",
+        "id": "2041223587873312769",
+        "name": "黄昏（互关喵",
+        "pinned_tweet_id": "2044279587132297601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 78,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 48
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T16:10:38.000Z",
+        "description": "无业游民 寻找SRE工作中 | 在中中国人 | https://t.co/1UMg90rDo8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.lotusssb.com",
+                "end": 47,
+                "expanded_url": "http://blog.lotusssb.com",
+                "start": 24,
+                "url": "https://t.co/1UMg90rDo8"
+              }
+            ]
+          }
+        },
+        "id": "1552325529705287681",
+        "name": "LOTU$",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587469957742268416/Re1WAd2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 224,
+          "like_count": 1295,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 548
+        },
+        "username": "LOTUSSSB",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T04:45:39.000Z",
+        "description": "ⓘ┋\n嘘——快躲好，不要被命运抓住了┋\n成分请看置顶帖┋\n挂一个走失的孩子@mokuneko_21┋\n好用✈️https://t.co/66SqMBfwdM┋\n个人博客👇🌐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "mokuneko_21"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mojie.co/register?aff=R…",
+                "end": 78,
+                "expanded_url": "https://mojie.co/register?aff=RrsfMvA5",
+                "start": 55,
+                "url": "https://t.co/66SqMBfwdM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moran-neko.moe",
+                "end": 23,
+                "expanded_url": "http://moran-neko.moe/",
+                "start": 0,
+                "url": "https://t.co/DCT9Hs2dDK"
+              }
+            ]
+          }
+        },
+        "id": "1509391402484080646",
+        "location": "西三环七号汇流井J-A6-01",
+        "name": "默然✨²¹",
+        "pinned_tweet_id": "2021094955960369368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034922845395197952/4a1QDbiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2961,
+          "following_count": 1789,
+          "like_count": 39964,
+          "listed_count": 7,
+          "media_count": 1892,
+          "tweet_count": 8486
+        },
+        "url": "https://t.co/DCT9Hs2dDK",
+        "username": "moran_neko",
+        "verified": false
+      }
+    ]
+  }
+}

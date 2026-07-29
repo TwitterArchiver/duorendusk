@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2045894462405312884",
+    "created_at": "2026-04-19T15:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045894462405312884"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045894462405312884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两颗普瑞，一颗哌甲酯咀嚼片。想打扫卫生，结果好像没作用，没感觉到有动力提升"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045894462405312884",
+        "created_at": "2026-04-19T15:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045894462405312884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045894462405312884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两颗普瑞，一颗哌甲酯咀嚼片。想打扫卫生，结果好像没作用，没感觉到有动力提升"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 243,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 165
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

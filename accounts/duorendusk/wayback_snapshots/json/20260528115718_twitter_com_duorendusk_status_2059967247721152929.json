@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2059641092799340633",
+    "created_at": "2026-05-28T11:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059967247721152929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045598149704818688",
+          "start": 0,
+          "username": "Dodioibs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059967247721152929",
+    "in_reply_to_user_id": "2045598149704818688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059641092799340633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dodioibs 就医院给配的药很难做到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2059641092799340633",
+        "created_at": "2026-05-28T11:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059967247721152929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059967247721152929",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059641092799340633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 就医院给配的药很难做到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2059641092799340633",
+        "created_at": "2026-05-27T14:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059641092799340633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059641092799340633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4541,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "血清素综合症百分百致死吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 319,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 420
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 自傷 od bpd｜混乱邪恶虚荣以我为主爆笑乐子人｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 209,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 660
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

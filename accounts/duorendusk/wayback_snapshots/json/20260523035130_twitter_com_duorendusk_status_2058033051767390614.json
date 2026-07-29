@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2057854006350008352",
+    "created_at": "2026-05-23T03:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058033051767390614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058033051767390614",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057854006350008352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 嗯，乳首开发？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 226,
+        "media_key": "3_2057853734416441344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI73EYeaYAAo-ES.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2057854006350008352",
+        "created_at": "2026-05-23T03:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058033051767390614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058033051767390614",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057854006350008352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 嗯，乳首开发？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057853734416441344"
+          ]
+        },
+        "author_id": "1319578357395156993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057854006350008352",
+        "created_at": "2026-05-22T16:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:58:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057853553818107978",
+          "2057854006350008352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XK1cw9Aguq",
+              "end": 159,
+              "expanded_url": "https://x.com/yoshino_2333/status/2057854006350008352/photo/1",
+              "media_key": "3_2057853734416441344",
+              "start": 136,
+              "url": "https://t.co/XK1cw9Aguq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057854006350008352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7799,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不对劲，怎么想都不对劲...我们班一个同学，很瘦。但是胸特别大，并且有乳核。\n\n他说是因为天天自己揉，揉成这个样子的🤔，并且也天天盛情邀请我们去揉（？）\n\n除此之外：他几乎没体毛喉结也看不见，声音像没变声一样。\n\n总之哪里就是很不对劲...我暂且认为是雄激素不敏感好了。 https://t.co/XK1cw9Aguq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 309,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 375
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054927495800242176/hHfS_LO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 663,
+          "like_count": 16399,
+          "listed_count": 5,
+          "media_count": 598,
+          "tweet_count": 11731
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

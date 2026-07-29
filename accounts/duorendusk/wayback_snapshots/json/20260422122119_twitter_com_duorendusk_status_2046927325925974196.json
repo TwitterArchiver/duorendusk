@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2046901304824590602",
+    "created_at": "2026-04-22T12:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046927325925974196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013321876224057344",
+          "start": 0,
+          "username": "OTxiashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046927325925974196",
+    "in_reply_to_user_id": "2013321876224057344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046901304824590602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTxiashu 让他了解一下什么是仅退款"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046901302165471232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgN463bgAA1UZ6.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046901302152851456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgN460a8AA_YJW.jpg",
+        "width": 942
+      },
+      {
+        "height": 1975,
+        "media_key": "3_2046901302014464000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgN46TbUAAEO4z.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2046901304824590602",
+        "created_at": "2026-04-22T12:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046927325925974196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013321876224057344",
+              "start": 0,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046927325925974196",
+        "in_reply_to_user_id": "2013321876224057344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046901304824590602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTxiashu 让他了解一下什么是仅退款"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046901302165471232",
+            "3_2046901302152851456",
+            "3_2046901302014464000"
+          ]
+        },
+        "author_id": "2013321876224057344",
+        "conversation_id": "2046901304824590602",
+        "created_at": "2026-04-22T10:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046901304824590602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvnKJl2kTh",
+              "end": 61,
+              "expanded_url": "https://x.com/OTxiashu/status/2046901304824590602/photo/1",
+              "media_key": "3_2046901302165471232",
+              "start": 38,
+              "url": "https://t.co/zvnKJl2kTh"
+            },
+            {
+              "display_url": "pic.x.com/zvnKJl2kTh",
+              "end": 61,
+              "expanded_url": "https://x.com/OTxiashu/status/2046901304824590602/photo/1",
+              "media_key": "3_2046901302152851456",
+              "start": 38,
+              "url": "https://t.co/zvnKJl2kTh"
+            },
+            {
+              "display_url": "pic.x.com/zvnKJl2kTh",
+              "end": 61,
+              "expanded_url": "https://x.com/OTxiashu/status/2046901304824590602/photo/1",
+              "media_key": "3_2046901302014464000",
+              "start": 38,
+              "url": "https://t.co/zvnKJl2kTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046901304824590602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1165,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的天 还有这种人 标题写的150mg然后说以图片为准 和我耍这种小聪明😓 https://t.co/zvnKJl2kTh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 269,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 218
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 422,
+          "like_count": 8273,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 3253
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

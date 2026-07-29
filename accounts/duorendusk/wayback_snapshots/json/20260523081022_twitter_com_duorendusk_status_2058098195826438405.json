@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2057835468415471832",
+    "created_at": "2026-05-23T08:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058098195826438405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        },
+        {
+          "end": 27,
+          "id": "1556279645502427136",
+          "start": 14,
+          "username": "tianxiao0502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058098195826438405",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058068965994500386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD @tianxiao0502 懂你意思"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2058068965994500386].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2058068965994500386",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2058068965994500386"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2057835468415471832",
+        "created_at": "2026-05-23T08:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058098195826438405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 27,
+              "id": "1556279645502427136",
+              "start": 14,
+              "username": "tianxiao0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058098195826438405",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058068965994500386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD @tianxiao0502 懂你意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 308,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 378
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/ALu7jA3QLL\n有事请点击https://t.co/VRpZNWpEVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/ALu7jA3QLL"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/VRpZNWpEVl"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4432,
+          "following_count": 68,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 731,
+          "tweet_count": 7166
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "pdw副wiki主/叫我天晓/pdw官号@Psydrugswiki/里推@maimai_Prism_│🍐妈妈@K1ku21_ /kr @KrvyScorpii/苦力怕@Akinoyo_desu/彻子@aokitetsu111/叶子@WinbornN94577/苦瓜大人@C4usT1c_03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "Psydrugswiki"
+              },
+              {
+                "end": 50,
+                "start": 36,
+                "username": "maimai_Prism_"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "KrvyScorpii"
+              },
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "aokitetsu111"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "WinbornN94577"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "C4usT1c_03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "location": "庄俞南路 1号",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2049637066645053756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041020314524815360/KxdTr0Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 189,
+          "like_count": 1630,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1365
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": true
+      }
+    ]
+  }
+}

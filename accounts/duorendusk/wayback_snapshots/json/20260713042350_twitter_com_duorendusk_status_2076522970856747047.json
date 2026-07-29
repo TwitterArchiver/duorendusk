@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2076512193923920145",
+    "created_at": "2026-07-13T04:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076522970856747047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029908828125548546",
+          "start": 0,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076522970856747047",
+    "in_reply_to_user_id": "2029908828125548546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076512193923920145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bui_tu46916 哦，好东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076512191210283008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFA1gjbYAA1Ru4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2076512193923920145",
+        "created_at": "2026-07-13T04:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076522970856747047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076522970856747047",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076512193923920145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 哦，好东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076512191210283008"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2076512193923920145",
+        "created_at": "2026-07-13T03:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076512193923920145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EGdtoaj2U",
+              "end": 27,
+              "expanded_url": "https://x.com/bui_tu46916/status/2076512193923920145/photo/1",
+              "media_key": "3_2076512191210283008",
+              "start": 4,
+              "url": "https://t.co/8EGdtoaj2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076512193923920145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1t专 https://t.co/8EGdtoaj2U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 331,
+          "like_count": 272,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 559
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+UQcUn2FxkPszZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+UQcUn2FxkPszZmQx",
+                "start": 0,
+                "url": "https://t.co/i4pDJdGmt8"
+              }
+            ]
+          }
+        },
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076314885777129472/CJiIlAcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 277,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 858
+        },
+        "url": "https://t.co/i4pDJdGmt8",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

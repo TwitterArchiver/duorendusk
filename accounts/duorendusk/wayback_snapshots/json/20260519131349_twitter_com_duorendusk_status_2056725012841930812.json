@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056724885867728896"
+      ]
+    },
+    "author_id": "2041223587873312769",
+    "conversation_id": "2056725012841930812",
+    "created_at": "2026-05-19T13:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056725012841930812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TaGOm8rchv",
+          "end": 53,
+          "expanded_url": "https://x.com/duorendusk/status/2056725012841930812/photo/1",
+          "media_key": "3_2056724885867728896",
+          "start": 30,
+          "url": "https://t.co/TaGOm8rchv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056725012841930812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我由衷的希望我的朋友们\n不要认识这两样东西\n会让人变得不幸 https://t.co/TaGOm8rchv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 823,
+        "media_key": "3_2056724885867728896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIr0Yv7aEAA2ebB.jpg",
+        "width": 823
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056724885867728896"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "conversation_id": "2056725012841930812",
+        "created_at": "2026-05-19T13:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056725012841930812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaGOm8rchv",
+              "end": 53,
+              "expanded_url": "https://x.com/duorendusk/status/2056725012841930812/photo/1",
+              "media_key": "3_2056724885867728896",
+              "start": 30,
+              "url": "https://t.co/TaGOm8rchv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056725012841930812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我由衷的希望我的朋友们\n不要认识这两样东西\n会让人变得不幸 https://t.co/TaGOm8rchv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 286,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 298
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

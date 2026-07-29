@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064779892974317568"
+      ],
+      "media_source_tweet_id": [
+        "2064779898552717620"
+      ]
+    },
+    "author_id": "2041223587873312769",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065279408282489243",
+    "created_at": "2026-06-12T03:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065279408282489243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1957493225746493443",
+          "start": 3,
+          "username": "Amorisnodoor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GNdzyFTARA",
+          "end": 121,
+          "expanded_url": "https://x.com/Amorisnodoor/status/2064779898552717620/photo/1",
+          "media_key": "3_2064779892974317568",
+          "start": 98,
+          "url": "https://t.co/GNdzyFTARA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065279408282489243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064779898552717620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amorisnodoor: 恐同的男性本质是把自己代入了0的身份，而在社会固有认知里，0与女性相对应。女性也是受到男凝、性化的对象。所以他们其实是害怕自己被凝视、成为那个“被狩猎”的地位 https://t.co/GNdzyFTARA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1816,
+        "media_key": "3_2064779892974317568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeSX3wacAAC8rF.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064779892974317568"
+          ],
+          "media_source_tweet_id": [
+            "2064779898552717620"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065279408282489243",
+        "created_at": "2026-06-12T03:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065279408282489243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1957493225746493443",
+              "start": 3,
+              "username": "Amorisnodoor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNdzyFTARA",
+              "end": 121,
+              "expanded_url": "https://x.com/Amorisnodoor/status/2064779898552717620/photo/1",
+              "media_key": "3_2064779892974317568",
+              "start": 98,
+              "url": "https://t.co/GNdzyFTARA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065279408282489243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064779898552717620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amorisnodoor: 恐同的男性本质是把自己代入了0的身份，而在社会固有认知里，0与女性相对应。女性也是受到男凝、性化的对象。所以他们其实是害怕自己被凝视、成为那个“被狩猎”的地位 https://t.co/GNdzyFTARA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064779892974317568"
+          ]
+        },
+        "author_id": "1957493225746493443",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064779898552717620",
+        "created_at": "2026-06-10T18:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064779898552717620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNdzyFTARA",
+              "end": 103,
+              "expanded_url": "https://x.com/Amorisnodoor/status/2064779898552717620/photo/1",
+              "media_key": "3_2064779892974317568",
+              "start": 80,
+              "url": "https://t.co/GNdzyFTARA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064779898552717620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4884,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "恐同的男性本质是把自己代入了0的身份，而在社会固有认知里，0与女性相对应。女性也是受到男凝、性化的对象。所以他们其实是害怕自己被凝视、成为那个“被狩猎”的地位 https://t.co/GNdzyFTARA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 329,
+          "like_count": 220,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 528
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T17:22:17.000Z",
+        "description": "08年伪正太 韩国留学 180/60kg\n男子本似远山，远山名为阿莫🌈 \n0m｜第五人格半职业选手｜BMI19",
+        "id": "1957493225746493443",
+        "name": "阿莫-二代目🏳️‍🌈已高考完😋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065063644459835392/gi6YbkWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 87,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 86
+        },
+        "username": "Amorisnodoor",
+        "verified": false
+      }
+    ]
+  }
+}

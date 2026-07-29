@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2059238340235587652",
+    "created_at": "2026-05-27T00:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059434500678123745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "830659836924694528",
+          "start": 0,
+          "username": "m26iza"
+        },
+        {
+          "end": 22,
+          "id": "1815649539057201152",
+          "start": 8,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059434500678123745",
+    "in_reply_to_user_id": "830659836924694528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059373199595585955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m26iza @NankyuSeiichi 白巧要好好的呀🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2059238340235587652",
+        "created_at": "2026-05-27T00:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059434500678123745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "830659836924694528",
+              "start": 0,
+              "username": "m26iza"
+            },
+            {
+              "end": 22,
+              "id": "1815649539057201152",
+              "start": 8,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059434500678123745",
+        "in_reply_to_user_id": "830659836924694528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059373199595585955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m26iza @NankyuSeiichi 白巧要好好的呀🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830659836924694528",
+        "conversation_id": "2059238340235587652",
+        "created_at": "2026-05-26T20:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T21:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059373199595585955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059373199595585955",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059238340235587652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 如果说白巧曲奇死了，那个你认识了 吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 316,
+          "like_count": 191,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 402
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-12T06:08:32.000Z",
+        "description": "梧桐枝丫疯长，爱意贯穿心脏 ——《某某》",
+        "id": "830659836924694528",
+        "name": "Line.10🏳️‍⚧️",
+        "pinned_tweet_id": "2052774956845723871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052799119480193024/u2YDFDTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 879,
+          "like_count": 13725,
+          "listed_count": 10,
+          "media_count": 49,
+          "tweet_count": 1305
+        },
+        "username": "m26iza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 1396,
+          "like_count": 35548,
+          "listed_count": 4,
+          "media_count": 761,
+          "tweet_count": 10008
+        },
+        "username": "NankyuSeiichi",
+        "verified": true
+      }
+    ]
+  }
+}

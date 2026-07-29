@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2057430621270802487",
+    "created_at": "2026-05-21T14:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057462759080816961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1486225700793495552",
+          "start": 0,
+          "username": "ABC13067637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057462759080816961",
+    "in_reply_to_user_id": "1486225700793495552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057430621270802487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC13067637 什么逆向工程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2057430621270802487",
+        "created_at": "2026-05-21T14:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057462759080816961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486225700793495552",
+              "start": 0,
+              "username": "ABC13067637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057462759080816961",
+        "in_reply_to_user_id": "1486225700793495552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057430621270802487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC13067637 什么逆向工程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486225700793495552",
+        "conversation_id": "2057430621270802487",
+        "created_at": "2026-05-21T11:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057430621270802487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057430621270802487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候能开发一种新技术，把蛋蛋转化成卵巢，然后塞进体内😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 306,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 355
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "🏳️‍⚧️|INFP | 软件开发｜喜欢可爱的东西｜同类互fo 喵",
+        "id": "1486225700793495552",
+        "name": "Mizuki酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 443,
+          "like_count": 1704,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 710
+        },
+        "username": "ABC13067637",
+        "verified": false
+      }
+    ]
+  }
+}

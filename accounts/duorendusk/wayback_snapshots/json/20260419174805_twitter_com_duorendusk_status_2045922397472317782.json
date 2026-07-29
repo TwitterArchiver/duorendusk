@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2045922395282944162",
+    "created_at": "2026-04-19T17:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T18:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045922397472317782"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045922397472317782",
+    "in_reply_to_user_id": "2041223587873312769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045922395282944162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三年后儿子找到妈妈手机，在这个原回答后面补充说明，说妈妈在写下那个回答后就服毒自杀了。\n死的时候怀有身孕。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2045922392489472000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSTk4JaMAAfJ5g.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2045922392988643328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSTk6Aa8AAC12H.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2045922392250445824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSTk3Qa8AAv9n_.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045922395282944162",
+        "created_at": "2026-04-19T17:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T18:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045922397472317782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045922397472317782",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045922395282944162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三年后儿子找到妈妈手机，在这个原回答后面补充说明，说妈妈在写下那个回答后就服毒自杀了。\n死的时候怀有身孕。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045922392489472000",
+            "3_2045922392988643328",
+            "3_2045922392250445824"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "conversation_id": "2045922395282944162",
+        "created_at": "2026-04-19T17:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T18:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045922395282944162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWeUIV6gBG",
+              "end": 155,
+              "expanded_url": "https://x.com/duorendusk/status/2045922395282944162/photo/1",
+              "media_key": "3_2045922392489472000",
+              "start": 132,
+              "url": "https://t.co/IWeUIV6gBG"
+            },
+            {
+              "display_url": "pic.x.com/IWeUIV6gBG",
+              "end": 155,
+              "expanded_url": "https://x.com/duorendusk/status/2045922395282944162/photo/1",
+              "media_key": "3_2045922392988643328",
+              "start": 132,
+              "url": "https://t.co/IWeUIV6gBG"
+            },
+            {
+              "display_url": "pic.x.com/IWeUIV6gBG",
+              "end": 155,
+              "expanded_url": "https://x.com/duorendusk/status/2045922395282944162/photo/1",
+              "media_key": "3_2045922392250445824",
+              "start": 132,
+              "url": "https://t.co/IWeUIV6gBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045922395282944162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "残疾人，没有收入，在网上卖小视频赚钱（涉恐涉爆猎奇视频），结果被晶哥逮捕，看守所待了四十几天，由于是残疾人，在看守所行动不方便，拉屎拉一裤裆，被羞辱，在看守所待了四十多天，绝食，被强行喂食，然后老公给她取保候审。\n\n然后听说案子到了检察院，怕坐牢，写下这个回答。 https://t.co/IWeUIV6gBG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 243,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 168
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

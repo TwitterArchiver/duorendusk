@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2057008350550986819",
+    "created_at": "2026-05-21T12:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057434624155177112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1430973520452800515",
+          "start": 0,
+          "username": "XmeowwoemX_017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057434624155177112",
+    "in_reply_to_user_id": "1430973520452800515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057008350550986819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XmeowwoemX_017 对于缺爱的她们来说，哪怕是一点点可怜，也会被她们错当成爱，然后抓的不放手，她们没有接受和感受过爱，所以不知道什么是爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2057008350550986819",
+        "created_at": "2026-05-21T12:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057434624155177112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1430973520452800515",
+              "start": 0,
+              "username": "XmeowwoemX_017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057434624155177112",
+        "in_reply_to_user_id": "1430973520452800515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057008350550986819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XmeowwoemX_017 对于缺爱的她们来说，哪怕是一点点可怜，也会被她们错当成爱，然后抓的不放手，她们没有接受和感受过爱，所以不知道什么是爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430973520452800515",
+        "conversation_id": "2057008350550986819",
+        "created_at": "2026-05-20T07:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057008350550986819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057008350550986819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6298,
+          "like_count": 53,
+          "quote_count": 4,
+          "reply_count": 39,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "了解到身边发生了一些我非常不愿意见到的事情。\n某些未成年的药娘，你们在面对恋爱这件事时可不可以不要这么草率？\n先是满心想着要脱单，然后选择和人步入了一段关系过后，又不能做到真诚、负责地对待。后面又以一些非常上不了台面的缘由，把对方说甩就甩了？再这样为人下去肯定免不了要付出代价的😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 302,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 334
+        },
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T19:22:14.000Z",
+        "description": "关于当下和过去的碎碎念 🏳️‍⚧️(not quite binary) transfem HRT since: Feb 2025 (CPA) / Jun 2025 (E2) 很孤单请和我抱抱",
+        "id": "1430973520452800515",
+        "location": "Auckland, NZ / Beijing ",
+        "name": "💜（猫病第iii期",
+        "pinned_tweet_id": "1943985209747419617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680217398081880065/thsuWemZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 409,
+          "like_count": 38852,
+          "listed_count": 7,
+          "media_count": 719,
+          "tweet_count": 5019
+        },
+        "username": "XmeowwoemX_017",
+        "verified": false
+      }
+    ]
+  }
+}

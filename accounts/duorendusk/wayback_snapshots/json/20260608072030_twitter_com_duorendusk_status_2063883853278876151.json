@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2063883853278876151",
+    "created_at": "2026-06-08T07:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063883853278876151"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063883853278876151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次进去是什么感觉呢？进去的一瞬间下面有一种火辣辣的感觉，进去后异物感强烈，有想上厕所却又上不出来的那种羞耻感，前面也想尿但又尿不出来，然后来来回回快感夹杂着疼痛感，居然会有舒服的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2063883853278876151",
+        "created_at": "2026-06-08T07:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063883853278876151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063883853278876151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次进去是什么感觉呢？进去的一瞬间下面有一种火辣辣的感觉，进去后异物感强烈，有想上厕所却又上不出来的那种羞耻感，前面也想尿但又尿不出来，然后来来回回快感夹杂着疼痛感，居然会有舒服的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 325,
+          "like_count": 220,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 500
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}
