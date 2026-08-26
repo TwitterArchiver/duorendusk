@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2084558903669633509",
+    "created_at": "2026-08-04T12:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084623466616295842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "Easter_buny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084623466616295842",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084558903669633509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easter_buny 这进口的吗，医生没有跟你说吗，我之前开药，医生就跟我说要进口的还是国产的，说进口的会贵很多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1609,
+        "media_key": "3_2084558892005273600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3XRI9bMAAA0q_.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1055,
+        "media_key": "3_2084558892013670400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3XRI_bUAAgO8g.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084558892013604864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3XRI_aUAA7Ugz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2084558903669633509",
+        "created_at": "2026-08-04T12:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084623466616295842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084623466616295842",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084558903669633509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 这进口的吗，医生没有跟你说吗，我之前开药，医生就跟我说要进口的还是国产的，说进口的会贵很多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084558892005273600",
+            "3_2084558892013670400",
+            "3_2084558892013604864"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2084558903669633509",
+        "created_at": "2026-08-04T08:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084558903669633509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/POSzJSE6ty",
+              "end": 46,
+              "expanded_url": "https://x.com/Easter_buny/status/2084558903669633509/photo/1",
+              "media_key": "3_2084558892005273600",
+              "start": 23,
+              "url": "https://t.co/POSzJSE6ty"
+            },
+            {
+              "display_url": "pic.x.com/POSzJSE6ty",
+              "end": 46,
+              "expanded_url": "https://x.com/Easter_buny/status/2084558903669633509/photo/1",
+              "media_key": "3_2084558892013670400",
+              "start": 23,
+              "url": "https://t.co/POSzJSE6ty"
+            },
+            {
+              "display_url": "pic.x.com/POSzJSE6ty",
+              "end": 46,
+              "expanded_url": "https://x.com/Easter_buny/status/2084558903669633509/photo/1",
+              "media_key": "3_2084558892013604864",
+              "start": 23,
+              "url": "https://t.co/POSzJSE6ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084558903669633509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 906,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦喂😧，这个价格吓晕我了，够我买13盒阿普 https://t.co/POSzJSE6ty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 338,
+          "like_count": 305,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8486,
+          "following_count": 1291,
+          "like_count": 68300,
+          "listed_count": 8,
+          "media_count": 3119,
+          "tweet_count": 19416
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

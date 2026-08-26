@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088863042419515392"
+      ],
+      "media_source_tweet_id": [
+        "2088863113198395765"
+      ]
+    },
+    "author_id": "2041223587873312769",
+    "conversation_id": "2089042148641673561",
+    "created_at": "2026-08-16T17:30:35.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089042148641673561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2059358011056160768",
+          "start": 3,
+          "username": "qiouyuebai520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X6a3JXZ6Un",
+          "end": 100,
+          "expanded_url": "https://x.com/qiouyuebai520/status/2088863113198395765/video/1",
+          "media_key": "13_2088863042419515392",
+          "start": 77,
+          "url": "https://t.co/X6a3JXZ6Un"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089042148641673561",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088863042419515392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088863113198395765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiouyuebai520: 我每次看別人被幹都會有快感，都超羨慕，但是當我真的被幹我又體驗不到快感，因為他們根本不會和我有任何前戲也不會誇我😭 https://t.co/X6a3JXZ6Un"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4800,
+        "height": 576,
+        "media_key": "13_2088863042419515392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088863042419515392/img/oDlbS-65a-OxagXw.jpg",
+        "public_metrics": {
+          "view_count": 4352
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088863042419515392/vid/avc1/600x270/43E9RMElN6qq4HoW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088863042419515392/vid/avc1/800x360/ylbbfGMkVbtPjonW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088863042419515392/vid/avc1/1280x576/OEeryTu1biQUI2pp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088863042419515392/pl/hqo_Pxz52hLs8Hgp.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088863042419515392"
+          ],
+          "media_source_tweet_id": [
+            "2088863113198395765"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "conversation_id": "2089042148641673561",
+        "created_at": "2026-08-16T17:30:35.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089042148641673561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2059358011056160768",
+              "start": 3,
+              "username": "qiouyuebai520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X6a3JXZ6Un",
+              "end": 100,
+              "expanded_url": "https://x.com/qiouyuebai520/status/2088863113198395765/video/1",
+              "media_key": "13_2088863042419515392",
+              "start": 77,
+              "url": "https://t.co/X6a3JXZ6Un"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089042148641673561",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088863042419515392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088863113198395765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiouyuebai520: 我每次看別人被幹都會有快感，都超羨慕，但是當我真的被幹我又體驗不到快感，因為他們根本不會和我有任何前戲也不會誇我😭 https://t.co/X6a3JXZ6Un"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088863042419515392"
+          ]
+        },
+        "author_id": "2059358011056160768",
+        "conversation_id": "2088863113198395765",
+        "created_at": "2026-08-16T05:39:10.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088863113198395765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X6a3JXZ6Un",
+              "end": 81,
+              "expanded_url": "https://x.com/qiouyuebai520/status/2088863113198395765/video/1",
+              "media_key": "13_2088863042419515392",
+              "start": 58,
+              "url": "https://t.co/X6a3JXZ6Un"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088863113198395765",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088863042419515392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 8044,
+          "like_count": 296,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我每次看別人被幹都會有快感，都超羨慕，但是當我真的被幹我又體驗不到快感，因為他們根本不會和我有任何前戲也不會誇我😭 https://t.co/X6a3JXZ6Un"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089042148641673561",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 356,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T19:38:22.000Z",
+        "description": "🔞NSFW｜這裡秋月白｜身高158｜我可以是世界第一美少年嗎？｜希望各位喜歡我的靈魂｜完全遵守X規則｜可線下約會｜性成癮患者",
+        "id": "2059358011056160768",
+        "is_identity_verified": false,
+        "location": "🚪52解鎖好友位",
+        "most_recent_tweet_id": "2088863113198395765",
+        "name": "秋月白",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059358984008769536/3buR_yJs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7008,
+          "following_count": 52,
+          "like_count": 31,
+          "listed_count": 26,
+          "media_count": 28,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "qiouyuebai520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

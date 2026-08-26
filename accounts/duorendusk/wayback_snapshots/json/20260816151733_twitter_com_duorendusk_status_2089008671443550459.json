@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088614925409398784",
+        "3_2088614925417721856",
+        "3_2088614925417771008",
+        "3_2088614925413621760"
+      ],
+      "media_source_tweet_id": [
+        "2088615086764204091",
+        "2088615086764204091",
+        "2088615086764204091",
+        "2088615086764204091"
+      ]
+    },
+    "author_id": "2041223587873312769",
+    "conversation_id": "2089008671443550459",
+    "created_at": "2026-08-16T15:17:33.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089008671443550459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3022697779",
+          "start": 3,
+          "username": "RXdruglab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7QJMI1ByqE",
+          "end": 50,
+          "expanded_url": "https://x.com/RXdruglab/status/2088615086764204091/photo/1",
+          "media_key": "3_2088614925409398784",
+          "start": 27,
+          "url": "https://t.co/7QJMI1ByqE"
+        },
+        {
+          "display_url": "pic.x.com/7QJMI1ByqE",
+          "end": 50,
+          "expanded_url": "https://x.com/RXdruglab/status/2088615086764204091/photo/1",
+          "media_key": "3_2088614925417721856",
+          "start": 27,
+          "url": "https://t.co/7QJMI1ByqE"
+        },
+        {
+          "display_url": "pic.x.com/7QJMI1ByqE",
+          "end": 50,
+          "expanded_url": "https://x.com/RXdruglab/status/2088615086764204091/photo/1",
+          "media_key": "3_2088614925417771008",
+          "start": 27,
+          "url": "https://t.co/7QJMI1ByqE"
+        },
+        {
+          "display_url": "pic.x.com/7QJMI1ByqE",
+          "end": 50,
+          "expanded_url": "https://x.com/RXdruglab/status/2088615086764204091/photo/1",
+          "media_key": "3_2088614925413621760",
+          "start": 27,
+          "url": "https://t.co/7QJMI1ByqE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089008671443550459",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088614925409398784"
+      },
+      {
+        "media_key": "3_2088614925417721856"
+      },
+      {
+        "media_key": "3_2088614925417771008"
+      },
+      {
+        "media_key": "3_2088614925413621760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088615086764204091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RXdruglab: 快闪店伤人事件法律分析 https://t.co/7QJMI1ByqE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2540,
+        "media_key": "3_2088614925409398784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxANW2bMAAVPPy.jpg",
+        "width": 1241
+      },
+      {
+        "height": 2540,
+        "media_key": "3_2088614925417721856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxANW4aMAAPR3j.jpg",
+        "width": 1241
+      },
+      {
+        "height": 2540,
+        "media_key": "3_2088614925417771008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxANW4a8AAi0Mx.jpg",
+        "width": 1241
+      },
+      {
+        "height": 2540,
+        "media_key": "3_2088614925413621760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxANW3boAAlvUx.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088614925409398784",
+            "3_2088614925417721856",
+            "3_2088614925417771008",
+            "3_2088614925413621760"
+          ],
+          "media_source_tweet_id": [
+            "2088615086764204091",
+            "2088615086764204091",
+            "2088615086764204091",
+            "2088615086764204091"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "conversation_id": "2089008671443550459",
+        "created_at": "2026-08-16T15:17:33.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089008671443550459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3022697779",
+              "start": 3,
+              "username": "RXdruglab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QJMI1ByqE",
+              "end": 50,
+              "expanded_url": "https://x.com/RXdruglab/status/2088615086764204091/photo/1",
+              "media_key": "3_2088614925409398784",
+              "start": 27,
+              "url": "https://t.co/7QJMI1ByqE"
+            },
+            {
+              "display_url": "pic.x.com/7QJMI1ByqE",
+              "end": 50,
+              "expanded_url": "https://x.com/RXdruglab/status/2088615086764204091/photo/1",
+              "media_key": "3_2088614925417721856",
+              "start": 27,
+              "url": "https://t.co/7QJMI1ByqE"
+            },
+            {
+              "display_url": "pic.x.com/7QJMI1ByqE",
+              "end": 50,
+              "expanded_url": "https://x.com/RXdruglab/status/2088615086764204091/photo/1",
+              "media_key": "3_2088614925417771008",
+              "start": 27,
+              "url": "https://t.co/7QJMI1ByqE"
+            },
+            {
+              "display_url": "pic.x.com/7QJMI1ByqE",
+              "end": 50,
+              "expanded_url": "https://x.com/RXdruglab/status/2088615086764204091/photo/1",
+              "media_key": "3_2088614925413621760",
+              "start": 27,
+              "url": "https://t.co/7QJMI1ByqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089008671443550459",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088614925409398784"
+          },
+          {
+            "media_key": "3_2088614925417721856"
+          },
+          {
+            "media_key": "3_2088614925417771008"
+          },
+          {
+            "media_key": "3_2088614925413621760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088615086764204091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RXdruglab: 快闪店伤人事件法律分析 https://t.co/7QJMI1ByqE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088614925409398784",
+            "3_2088614925417721856",
+            "3_2088614925417771008",
+            "3_2088614925413621760"
+          ]
+        },
+        "author_id": "3022697779",
+        "conversation_id": "2088615086764204091",
+        "created_at": "2026-08-15T13:13:35.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088615086764204091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QJMI1ByqE",
+              "end": 35,
+              "expanded_url": "https://x.com/RXdruglab/status/2088615086764204091/photo/1",
+              "media_key": "3_2088614925409398784",
+              "start": 12,
+              "url": "https://t.co/7QJMI1ByqE"
+            },
+            {
+              "display_url": "pic.x.com/7QJMI1ByqE",
+              "end": 35,
+              "expanded_url": "https://x.com/RXdruglab/status/2088615086764204091/photo/1",
+              "media_key": "3_2088614925417721856",
+              "start": 12,
+              "url": "https://t.co/7QJMI1ByqE"
+            },
+            {
+              "display_url": "pic.x.com/7QJMI1ByqE",
+              "end": 35,
+              "expanded_url": "https://x.com/RXdruglab/status/2088615086764204091/photo/1",
+              "media_key": "3_2088614925417771008",
+              "start": 12,
+              "url": "https://t.co/7QJMI1ByqE"
+            },
+            {
+              "display_url": "pic.x.com/7QJMI1ByqE",
+              "end": 35,
+              "expanded_url": "https://x.com/RXdruglab/status/2088615086764204091/photo/1",
+              "media_key": "3_2088614925413621760",
+              "start": 12,
+              "url": "https://t.co/7QJMI1ByqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088615086764204091",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088614925409398784"
+          },
+          {
+            "media_key": "3_2088614925417721856"
+          },
+          {
+            "media_key": "3_2088614925417771008"
+          },
+          {
+            "media_key": "3_2088614925413621760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4090,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "快闪店伤人事件法律分析 https://t.co/7QJMI1ByqE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089008671443550459",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 353,
+          "like_count": 337,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 621
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088995968528359734",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3022697779/1730924898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20423,
+          "following_count": 15,
+          "like_count": 41,
+          "listed_count": 24,
+          "media_count": 64,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

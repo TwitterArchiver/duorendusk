@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2087809882208776657",
+    "created_at": "2026-08-13T12:42:13.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087882416203653375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1478303823802552322",
+          "start": 0,
+          "username": "DalingDalingDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087882416203653375",
+    "in_reply_to_user_id": "1478303823802552322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087809882208776657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DalingDalingDa 老歌听着还是更有韵味，经典依旧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22370,
+        "height": 720,
+        "media_key": "13_2087807188379262976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087807188379262976/img/LeNPgwHs5AmN1w-t.jpg",
+        "public_metrics": {
+          "view_count": 32
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087807188379262976/vid/avc1/480x270/KGx3NXNtV19Mxbt7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087807188379262976/vid/avc1/640x360/_MWSgyPpMgsAc6fl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087807188379262976/vid/avc1/1280x720/nosObyOP-Di3-v6C.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087807188379262976/pl/vzYda071Ujshwmhd.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 32956,
+        "height": 720,
+        "media_key": "13_2087807286949691392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087807286949691392/img/K2W7wAj8F04jsmas.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087807286949691392/vid/avc1/480x270/vp1VB6apSK9-ZQj9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087807286949691392/vid/avc1/640x360/vSK805pFciU9C_Ax.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087807286949691392/vid/avc1/1280x720/GtKYCKDRuuHlRXzZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087807286949691392/pl/0w6IYdMjYoKYWGiA.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 66740,
+        "height": 720,
+        "media_key": "13_2087809168967413760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087809168967413760/img/ve_nqGzuR137kKo_.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087809168967413760/vid/avc1/480x270/SxeWyIUkokyDy6yO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087809168967413760/vid/avc1/640x360/DfHRIO-5lgAPCiUI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087809168967413760/vid/avc1/1280x720/WQUp38n-3aurhR--.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087809168967413760/pl/hGxjaEr2OpaBv1Xl.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 95382,
+        "height": 720,
+        "media_key": "13_2087809463990562816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087809463990562816/img/XSRm_TlXIBZ8ZgUH.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087809463990562816/vid/avc1/480x270/WV081vJ7nvmmTB1u.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087809463990562816/vid/avc1/640x360/MiZPPxNBMsD67eQ-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087809463990562816/vid/avc1/1280x720/ZZtQtyLfNXSV3BCf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087809463990562816/pl/nLEGCvRvfmD8LbnT.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2087809882208776657",
+        "created_at": "2026-08-13T12:42:13.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087882416203653375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478303823802552322",
+              "start": 0,
+              "username": "DalingDalingDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087882416203653375",
+        "in_reply_to_user_id": "1478303823802552322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087809882208776657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DalingDalingDa 老歌听着还是更有韵味，经典依旧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087807188379262976",
+            "13_2087807286949691392",
+            "13_2087809168967413760",
+            "13_2087809463990562816"
+          ]
+        },
+        "author_id": "1478303823802552322",
+        "conversation_id": "2087809882208776657",
+        "created_at": "2026-08-13T07:54:00.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087809882208776657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQiwOTubBy",
+              "end": 176,
+              "expanded_url": "https://x.com/DalingDalingDa/status/2087809882208776657/video/1",
+              "media_key": "13_2087807188379262976",
+              "start": 153,
+              "url": "https://t.co/XQiwOTubBy"
+            },
+            {
+              "display_url": "pic.x.com/XQiwOTubBy",
+              "end": 176,
+              "expanded_url": "https://x.com/DalingDalingDa/status/2087809882208776657/video/1",
+              "media_key": "13_2087807286949691392",
+              "start": 153,
+              "url": "https://t.co/XQiwOTubBy"
+            },
+            {
+              "display_url": "pic.x.com/XQiwOTubBy",
+              "end": 176,
+              "expanded_url": "https://x.com/DalingDalingDa/status/2087809882208776657/video/1",
+              "media_key": "13_2087809168967413760",
+              "start": 153,
+              "url": "https://t.co/XQiwOTubBy"
+            },
+            {
+              "display_url": "pic.x.com/XQiwOTubBy",
+              "end": 176,
+              "expanded_url": "https://x.com/DalingDalingDa/status/2087809882208776657/video/1",
+              "media_key": "13_2087809463990562816",
+              "start": 153,
+              "url": "https://t.co/XQiwOTubBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087809882208776657",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087807188379262976"
+          },
+          {
+            "media_key": "13_2087807286949691392"
+          },
+          {
+            "media_key": "13_2087809168967413760"
+          },
+          {
+            "media_key": "13_2087809463990562816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黄凯芹40年来广州演唱会\n8月8日 广州体育馆 \n\n唱足3小时，作为歌迷的我和路人可不一样，首首都会唱。即使是65岁，Chris的舞台魅力也在聚光灯下展现得淋漓尽致。\n\n就是音响太差了，798块钱听个响，而且《今夜可否留低》竟然没有。\n\n附《逝去的诗篇》《不敢去爱》《伤尽我心的说话》《伤感的恋人》现场： https://t.co/XQiwOTubBy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087882416203653375",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 1,
+          "like_count": 313,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 597
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-04T09:54:52.000Z",
+        "description": "仍每日如旧照常重做，只要是我不落俗套，只要你间中也给 一些鼓舞~",
+        "id": "1478303823802552322",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087879344161255618",
+        "name": "daling （有病）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1478303823802552322/1731175072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930184865032613892/wi4_lT1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 620,
+          "like_count": 19571,
+          "listed_count": 3,
+          "media_count": 334,
+          "tweet_count": 1563
+        },
+        "url": "",
+        "username": "DalingDalingDa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

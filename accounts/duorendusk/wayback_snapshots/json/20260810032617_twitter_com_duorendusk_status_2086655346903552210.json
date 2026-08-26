@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2085221834983948627",
+    "created_at": "2026-08-10T03:26:17.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086655346903552210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "769013435296260096",
+          "start": 0,
+          "username": "cudadiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086655346903552210",
+    "in_reply_to_user_id": "769013435296260096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085221834983948627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cudadiao 哇哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 924175,
+        "height": 1080,
+        "media_key": "13_2074441963533914112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074441963533914112/img/eC-qAXJJf_1_iTOX.jpg",
+        "public_metrics": {
+          "view_count": 3891720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074441963533914112/vid/avc1/320x568/bfM6xGul6Rsw4z12.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074441963533914112/vid/avc1/480x852/I4W_ocbwR6gPN8Ra.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074441963533914112/vid/avc1/608x1080/EenqOu-FpShxOKkO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074441963533914112/pl/txu7dZZrgc8yPMYu.m3u8"
+          }
+        ],
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2085221834983948627",
+        "created_at": "2026-08-10T03:26:17.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086655346903552210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "769013435296260096",
+              "start": 0,
+              "username": "cudadiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086655346903552210",
+        "in_reply_to_user_id": "769013435296260096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085221834983948627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cudadiao 哇哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074441963533914112"
+          ],
+          "media_source_tweet_id": [
+            "2074442310889419081"
+          ]
+        },
+        "author_id": "769013435296260096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085221834983948627",
+        "created_at": "2026-08-06T04:30:01.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085221834983948627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mqtWkBkEp",
+              "end": 23,
+              "expanded_url": "https://x.com/17358608kkk/status/2074442310889419081/video/1",
+              "media_key": "13_2074441963533914112",
+              "start": 0,
+              "url": "https://t.co/7mqtWkBkEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085221834983948627",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2074441963533914112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23078,
+          "impression_count": 508842,
+          "like_count": 50290,
+          "quote_count": 9,
+          "reply_count": 21,
+          "retweet_count": 3745
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7mqtWkBkEp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086655346903552210",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 343,
+          "like_count": 311,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 593
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-26T03:27:45.000Z",
+        "description": "😍",
+        "id": "769013435296260096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086053437658304812",
+        "name": "无码日",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1069835918129881088/ycHjtMPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12401,
+          "following_count": 1923,
+          "like_count": 7,
+          "listed_count": 14,
+          "media_count": 227,
+          "tweet_count": 1338
+        },
+        "url": "",
+        "username": "cudadiao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2088296162743009525",
+    "created_at": "2026-08-14T16:06:18.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088296162743009525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2004525682949517313",
+          "start": 3,
+          "username": "sahanasaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088296162743009525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088287526385754365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sahanasaya: 我和三角枫有类似恋人的亲密关系，我在此做一些总结吧。我所认识的三角枫有概率做出这类事，他在我哪嗑过极大量dpt，自缢过，亚硝酸盐类似物自杀过，精神状态极不稳定。思维在发病时低龄化，自毁性强。浅意识存在较弱攻击性，很明显是躁郁加焦虑并发。他的双向，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2088296162743009525",
+        "created_at": "2026-08-14T16:06:18.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088296162743009525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2004525682949517313",
+              "start": 3,
+              "username": "sahanasaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088296162743009525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088287526385754365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sahanasaya: 我和三角枫有类似恋人的亲密关系，我在此做一些总结吧。我所认识的三角枫有概率做出这类事，他在我哪嗑过极大量dpt，自缢过，亚硝酸盐类似物自杀过，精神状态极不稳定。思维在发病时低龄化，自毁性强。浅意识存在较弱攻击性，很明显是躁郁加焦虑并发。他的双向，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004525682949517313",
+        "conversation_id": "2088287526385754365",
+        "created_at": "2026-08-14T15:31:59.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088287526385754365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088287526385754365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我和三角枫有类似恋人的亲密关系，我在此做一些总结吧。我所认识的三角枫有概率做出这类事，他在我哪嗑过极大量dpt，自缢过，亚硝酸盐类似物自杀过，精神状态极不稳定。思维在发病时低龄化，自毁性强。浅意识存在较弱攻击性，很明显是躁郁加焦虑并发。他的双向，hrt激素紊乱，自闭让他在长时间尺度遭受"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088296162743009525",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 354,
+          "like_count": 334,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 611
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-26T12:12:37.000Z",
+        "description": "od记录\n下体男娘/是双/开放式关系婊子\n炼金术士系主人Sharon",
+        "id": "2004525682949517313",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2088287530198376842",
+        "name": "yona",
+        "pinned_tweet_id": "2075133512567705976",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2004525682949517313/1767232507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032324815445745664/9vW8FHKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 74,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "sahanasaya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

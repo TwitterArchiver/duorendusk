@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2088292824576045299",
+    "created_at": "2026-08-14T15:53:02.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088292824576045299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "853937729201086464",
+          "start": 3,
+          "username": "Astrioia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088292824576045299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088232877112922381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Astrioia: 我起初要走的时候是谁围住了我？从来没人说我在“偷拍”凶手本人吧，要“解决”什么“问题”？拼刺刀吗？我想骂你，但又怕立刻被安上辱女帽子，算啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2088292824576045299",
+        "created_at": "2026-08-14T15:53:02.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088292824576045299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "853937729201086464",
+              "start": 3,
+              "username": "Astrioia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088292824576045299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088232877112922381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Astrioia: 我起初要走的时候是谁围住了我？从来没人说我在“偷拍”凶手本人吧，要“解决”什么“问题”？拼刺刀吗？我想骂你，但又怕立刻被安上辱女帽子，算啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "853937729201086464",
+        "conversation_id": "2088232877112922381",
+        "created_at": "2026-08-14T11:54:50.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088232877112922381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aydenw42638/st…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/aydenw42638/status/2088195207695372427",
+              "start": 70,
+              "url": "https://t.co/LIOq8r9ea0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088232877112922381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2925,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088195207695372427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我起初要走的时候是谁围住了我？从来没人说我在“偷拍”凶手本人吧，要“解决”什么“问题”？拼刺刀吗？我想骂你，但又怕立刻被安上辱女帽子，算啦 https://t.co/LIOq8r9ea0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088292824576045299",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 354,
+          "like_count": 332,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 609
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-17T11:46:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weblogue",
+                "end": 23,
+                "expanded_url": "http://t.me/weblogue",
+                "start": 0,
+                "url": "https://t.co/3VrLMhAbFo"
+              }
+            ]
+          }
+        },
+        "id": "853937729201086464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088290109468934436",
+        "name": "Wireless Lover",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/853937729201086464/1632042627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948856216882741248/3ixfj3g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 1388,
+          "like_count": 2762,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/3VrLMhAbFo",
+        "username": "Astrioia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

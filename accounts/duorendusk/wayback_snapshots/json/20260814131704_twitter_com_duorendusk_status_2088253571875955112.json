@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2088253571875955112",
+    "created_at": "2026-08-14T13:17:04.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T14:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088253571875955112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2086838732741885952",
+          "start": 3,
+          "username": "Ididnothinglqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088253571875955112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088189184951591154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ididnothinglqz: 很多人攻击三角枫的点在于“跨出捅人还不让骂了”…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2088253571875955112",
+        "created_at": "2026-08-14T13:17:04.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088253571875955112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2086838732741885952",
+              "start": 3,
+              "username": "Ididnothinglqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088253571875955112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088189184951591154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ididnothinglqz: 很多人攻击三角枫的点在于“跨出捅人还不让骂了”…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086838732741885952",
+        "conversation_id": "2088189184951591154",
+        "created_at": "2026-08-14T09:01:13.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088189184951591154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088189184951591154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多人攻击三角枫的点在于“跨出捅人还不让骂了”\n我认为恶劣德行和超雄性格不会让人在快闪店里随机捅人，但不稳定的精神和目前不确定的药物作用会，她至少在捅人的一瞬间处于各种原因导致的失常状态，这种情况下攻击她没有意义，你想骂跨出有病就别出来那就让她住院，你想说毒虫该死危害社会就呼吁不要od，这样至少还是有积极意义的讨论\n有些人明白有些人不明白，在特定的精神状态下人就是很极端，完全失去“她是否在偷拍”的判断力，或者“捅人后的后果以及对对方的危害”之类的瞬间的思考能力，作为曾是精神病中一员的我站在同理心的角度难以苛责三角枫在过程中的失责，而同行首先可能不了解三角枫的精神状态，其次在事态激化和掏刀的过程中，没有积极控制三角枫，第一时间掏手机录视频，在我看来有责任，但再想想一帮半生不熟的人要为同行的普普通通的一人考虑行为能力也着实不太站得住脚，这又是跨圈的风气问题，所以综合来看，如果一定要归出一个责任在谁，大概只能怪三角枫“把自己放出来了”，而这于情于理也很难得出“因此她有多么该死多么罪恶滔天”的结论\n攻击一个精神病人是没有意义的，从来都是，给一群罪犯判死刑也不会让一个社会变得更好，修复罪犯给这个社会的伤痕需要反思和各种方式的建设，而不是情绪宣泄和攻击，跨出好危险，毒虫好该死，但然后呢，很多人说离跨出远点还不行吗，我的答案是躲不掉的，躲掉一个跨出你还能遇到一个毒虫，躲掉一个毒虫你也能遇到一个因压力失控的人，改变这些人的方法不是躲远点，不是瞎骂，不是看乐子。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 773,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人攻击三角枫的点在于“跨出捅人还不让骂了”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088253571875955112",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 352,
+          "like_count": 327,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "秽土转生？！ 推友寻回中 前世前前世昵称撒旦子民 本账号将发表温和言论以避免对线及举报 \n顺性别男趋近非二元 \n咀嚼一些腊肉，吐沙一些蜘蛛，笑话一些顺治，点赞一些男裱字",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2088253257898696796",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2086849075186680028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086840073727934464/LfJrPb84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 161,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2089012584423035017",
+    "created_at": "2026-08-16T15:33:06.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089012584423035017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1796937387899064320",
+          "start": 3,
+          "username": "CleverFf050755"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089012584423035017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019033891328418206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CleverFf050755: overdose圈知名人物，fow wiki重要成员爱德华先生，于2026年2月2日因阿片联用gaba能药物，导致呼吸抑制去世，其骨灰于2026年2月4日葬于嘉兴新福园墓地17-1313 ，沉痛悼念爱德华先生。 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48566,
+        "height": 720,
+        "media_key": "7_2019033667604189184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019033667604189184/pu/img/naBentpNqY-Ro-5S.jpg",
+        "public_metrics": {
+          "view_count": 6939
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019033667604189184/pu/vid/avc1/320x320/r210nzHP0fu3_5Aj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019033667604189184/pu/vid/avc1/540x540/gNbNh7aCw3Sf6wKX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019033667604189184/pu/vid/avc1/720x720/OcO6zvuO7af90EsK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019033667604189184/pu/pl/kftgx57c68I1GUax.m3u8?tag=12&v=091"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2089012584423035017",
+        "created_at": "2026-08-16T15:33:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089012584423035017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1796937387899064320",
+              "start": 3,
+              "username": "CleverFf050755"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089012584423035017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019033891328418206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CleverFf050755: overdose圈知名人物，fow wiki重要成员爱德华先生，于2026年2月2日因阿片联用gaba能药物，导致呼吸抑制去世，其骨灰于2026年2月4日葬于嘉兴新福园墓地17-1313 ，沉痛悼念爱德华先生。 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019033667604189184"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "2019033891328418206",
+        "created_at": "2026-02-04T13:02:46.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019033891328418206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xNovXfDtFI",
+              "end": 129,
+              "expanded_url": "https://x.com/CleverFf050755/status/2019033891328418206/video/1",
+              "media_key": "7_2019033667604189184",
+              "start": 106,
+              "url": "https://t.co/xNovXfDtFI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019033891328418206",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "7_2019033667604189184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 25669,
+          "like_count": 153,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "overdose圈知名人物，fow wiki重要成员爱德华先生，于2026年2月2日因阿片联用gaba能药物，导致呼吸抑制去世，其骨灰于2026年2月4日葬于嘉兴新福园墓地17-1313 ，沉痛悼念爱德华先生。 https://t.co/xNovXfDtFI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089012584423035017",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 356,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 622
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。妈妈@Akinoyo_desu  \n我厌恶强权",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hSuwLZ"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "is_identity_verified": false,
+        "location": "普瑞巴林生产制造区A3车间",
+        "most_recent_tweet_id": "2029902730861629922",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2025105252224274724",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796937387899064320/1761989816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 255,
+          "like_count": 223,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 2447
+        },
+        "url": "https://t.co/T0F6hSuwLZ",
+        "username": "CleverFf050755",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
