@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092260998958981120"
+      ]
+    },
+    "author_id": "2041223587873312769",
+    "conversation_id": "2092261101098676605",
+    "created_at": "2026-08-25T14:41:33.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092261101098676605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AmfwErkyf4",
+          "end": 57,
+          "expanded_url": "https://x.com/duorendusk/status/2092261101098676605/photo/1",
+          "media_key": "3_2092260998958981120",
+          "start": 34,
+          "url": "https://t.co/AmfwErkyf4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092261101098676605",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092260998958981120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么叫我吃了两天的退烧药，反倒温度上升了，这身体不想活，就都别活了 https://t.co/AmfwErkyf4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2092260998958981120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQk0SxRaoAAMSS9.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092260998958981120"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "conversation_id": "2092261101098676605",
+        "created_at": "2026-08-25T14:41:33.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092261101098676605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmfwErkyf4",
+              "end": 57,
+              "expanded_url": "https://x.com/duorendusk/status/2092261101098676605/photo/1",
+              "media_key": "3_2092260998958981120",
+              "start": 34,
+              "url": "https://t.co/AmfwErkyf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092261101098676605",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092260998958981120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫我吃了两天的退烧药，反倒温度上升了，这身体不想活，就都别活了 https://t.co/AmfwErkyf4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092261101098676605",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 361,
+          "like_count": 363,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

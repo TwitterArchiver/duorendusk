@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2099543656877465703",
+    "created_at": "2026-09-15T08:23:57.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T09:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099776219365646668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860377535215013888",
+          "start": 0,
+          "username": "AraiNogawaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099776219365646668",
+    "in_reply_to_user_id": "1860377535215013888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099543656877465703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraiNogawaovo 邀一下！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2099543656877465703",
+        "created_at": "2026-09-15T08:23:57.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099776219365646668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860377535215013888",
+              "start": 0,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099776219365646668",
+        "in_reply_to_user_id": "1860377535215013888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099543656877465703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraiNogawaovo 邀一下！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860377535215013888",
+        "conversation_id": "2099543656877465703",
+        "created_at": "2026-09-14T16:59:50.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099543656877465703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099543656877465703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1199,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想拉个群每天各种药鬼阿片鬼普瑞狗麻虫都来 有没有人支持"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099776219365646668",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 364,
+          "like_count": 371,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 654
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "雙手合十的時候，第一個聽到祈禱的人是自己。\n-\n精神病channel偶爾發一些照片和作品\n微查成分互fo\n-\n闲聊群https://t.co/IJX8d7N6vG\nbelieve in Satan La Vey",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 81,
+                "expanded_url": "https://x.com/i/chat/group_join/g2099560623025889330/9RJhkwgGm0",
+                "start": 58,
+                "url": "https://t.co/IJX8d7N6vG"
+              }
+            ]
+          }
+        },
+        "id": "1860377535215013888",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2099735723561881731",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2099567929511821338",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860377535215013888/1783699878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 302,
+          "like_count": 2281,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1323
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

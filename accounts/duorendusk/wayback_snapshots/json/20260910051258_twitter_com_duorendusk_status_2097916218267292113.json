@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2097910299815039211",
+    "created_at": "2026-09-10T05:12:58.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T06:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097916218267292113"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097916218267292113",
+    "in_reply_to_user_id": "2041223587873312769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097913763924242747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而是还是选择了回家，回到家之后，我躺在床上，身体舒服了点，没有一开始那么痛了，不会说痛到无法翻身了，\n\n因为我的解离比较严重，我只隐约地记得，我是38.5度的高烧，连续烧了三天偶尔还超出了38.5，在这三天里面，我只进食了一些水，当然，因为解离，我已经忘了这些痛苦，感觉解离也挺不错的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2097910299815039211",
+        "created_at": "2026-09-10T05:12:58.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097916218267292113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097916218267292113",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097913763924242747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而是还是选择了回家，回到家之后，我躺在床上，身体舒服了点，没有一开始那么痛了，不会说痛到无法翻身了，\n\n因为我的解离比较严重，我只隐约地记得，我是38.5度的高烧，连续烧了三天偶尔还超出了38.5，在这三天里面，我只进食了一些水，当然，因为解离，我已经忘了这些痛苦，感觉解离也挺不错的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2097910299815039211",
+        "created_at": "2026-09-10T05:03:13.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097913763924242747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097913763924242747",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097911959014555920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个时候我非常严肃的拒绝，并说出了我的身体已经无法坚持到去往第二家医院了，今天能出来看病全是因为我吃了止痛药曲马多和提神的药品专注达而一个上午过去，它们的效果正在消退，止痛药的效果一旦消退，我随时可能会面临晕倒，\n最终没有前往第二家医院"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097916218267292113",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 360,
+          "like_count": 370,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 649
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
