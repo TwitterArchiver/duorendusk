@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2041223587873312769",
+    "conversation_id": "2104085465200730254",
+    "created_at": "2026-09-30T09:10:03.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T10:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105223640229020053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1484488362182467584",
+          "start": 0,
+          "username": "f_fannie427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105223640229020053",
+    "in_reply_to_user_id": "1484488362182467584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104085465200730254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@f_fannie427 你在想什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2104085451963523072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTM2khVaYAArzh6.jpg",
+        "width": 1922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041223587873312769",
+        "conversation_id": "2104085465200730254",
+        "created_at": "2026-09-30T09:10:03.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105223640229020053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1484488362182467584",
+              "start": 0,
+              "username": "f_fannie427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105223640229020053",
+        "in_reply_to_user_id": "1484488362182467584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104085465200730254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@f_fannie427 你在想什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104085451963523072"
+          ]
+        },
+        "author_id": "1484488362182467584",
+        "conversation_id": "2104085465200730254",
+        "created_at": "2026-09-27T05:47:21.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T06:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104085465200730254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/56l07NDN0i",
+              "end": 38,
+              "expanded_url": "https://x.com/f_fannie427/status/2104085465200730254/photo/1",
+              "media_key": "3_2104085451963523072",
+              "start": 15,
+              "url": "https://t.co/56l07NDN0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104085465200730254",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104085451963523072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试试，口服利用率好像没有很差 https://t.co/56l07NDN0i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，神经痛确诊，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡    \n\n记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105223640229020053",
+        "name": "白羽🏳️‍⚧️🍥三代目",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 360,
+          "like_count": 376,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 672
+        },
+        "url": "",
+        "username": "duorendusk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-21T11:30:25.000Z",
+        "description": "状态稳定 傻小孩 丑 穷 冒失\nenby    hrt:23.10.3",
+        "id": "1484488362182467584",
+        "is_identity_verified": false,
+        "location": "云",
+        "most_recent_tweet_id": "2105203613274632234",
+        "name": "安宁",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484488362182467584/1770582215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026613117493587969/cKMcsiEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 787,
+          "like_count": 4351,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 887
+        },
+        "url": "",
+        "username": "f_fannie427",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
